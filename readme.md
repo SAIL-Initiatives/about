@@ -1,18 +1,23 @@
 # Call to Action: Grassroots Initiatives Bridging Research and Real-World Impact in Gaza
 
 - Who are we? Please follow us on [Instagram](https://www.instagram.com/sail.initiatives/)
-- Milestones to date: https://tinyurl.com/SAIL-initiatives (slide deck)
+- Milestones to date:
+  - Held a virtual cocreation workshop with participants from Australia, Canada, Finland, Indonesia, Japan, Palestine, Norway, etc.
+  - Delivered over 20 hours of free online English-tutorials to Gazan teens
+  - ...
+  - More details on [slide deck](https://tinyurl.com/SAIL-initiatives)
 
-## About
+## About Us
 
 This initiative sits at the intersection of two often conflicting goals*:
 
-**Practical, timely support** — sharing STEAM educational resources that can be useful to local educators*, offering them free Zoom English tutorials, mentorship, and project supervisions that directly empower individuals in Gaza now
-**Academic research** — empower all of our unpaid volunteers, especially researchers who need to produce peer-reviewed publications in order to advance their academic careers. For the work to be mutually rewarding, it will align with academic incentives while maintaining ethical integrity.
+- **Practical, timely support** — sharing STEAM educational resources that can be useful to local educators*, offering them free Zoom English tutorials, mentorship, and project supervisions that directly empower individuals in Gaza now
+
+- **Academic research** — empower all of our unpaid volunteers, especially researchers who need to produce peer-reviewed publications in order to advance their academic careers. For the work to be mutually rewarding, it will align with academic incentives while maintaining ethical integrity.
 
 (We are currently connected with an active WhatsApp community of educators and learners in Gaza and the West Bank)
 
-Given the limited volunteer hours and concerns about backlash, we aim for efforts that are intentionally designed to be manageable, sustainable, and discreet. 
+Given the limited volunteer hours, we aim for efforts that are intentionally designed to be manageable, sustainable, and discreet. 
 
  
 ## Beyond 2025 - Hopes and dreams
