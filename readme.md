@@ -15,7 +15,7 @@ This initiative sits at the intersection of two often conflicting goals*:
 
 - **Academic research** — empower all of our unpaid volunteers, especially researchers who need to produce peer-reviewed publications in order to advance their academic careers. For the work to be mutually rewarding, it will align with academic incentives while maintaining ethical integrity.
 
-(We are currently connected with an active WhatsApp community of educators and learners in Gaza and the West Bank)
+*We are currently connected with an active WhatsApp community of educators and learners in Gaza and the West Bank
 
 Given the limited volunteer hours, we aim for efforts that are intentionally designed to be manageable, sustainable, and discreet. 
 
