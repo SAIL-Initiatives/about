@@ -1,6 +1,6 @@
 # Call to Action: Grassroots Initiatives Bridging Research and Real-World Impact in Gaza
 
-- Who are we? Instagram: https://www.instagram.com/sail.initiatives/ 
+- Who are we? Please follow us on [Instagram](https://www.instagram.com/sail.initiatives/)
 - Milestones to date: https://tinyurl.com/SAIL-initiatives (slide deck)
 
 ## About
