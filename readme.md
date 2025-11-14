@@ -3,7 +3,8 @@
 - Who are we? Please follow us on [Instagram](https://www.instagram.com/sail.initiatives/)
 - Milestones to date:
   - Held a virtual cocreation workshop with participants from Australia, Canada, Finland, Indonesia, Japan, Palestine, Norway, etc.
-  - Delivered over 20 hours of free online English-tutorials to Gazan teens
+  - Delivered over 38 hours of free online English-tutorials to Gazan teens
+  - Conducted over 50 research meetings with steering committee members and research volunteers from Finland, Indonesia, Japan, and United Kingdom
   - ...
   - More details on [slide deck](https://tinyurl.com/SAIL-initiatives)
 
@@ -38,5 +39,5 @@ Given the limited volunteer hours, we aim for efforts that are intentionally des
 
 ### Empowering non-Palestanians through other social good projects
 
-- Combatting health inequity through AI
+- Combating inequity through AI-assisted interventions
 
