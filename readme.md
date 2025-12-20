@@ -3,8 +3,9 @@
 - Who are we? Please follow us on [Instagram](https://www.instagram.com/sail.initiatives/)
 - Milestones to date:
   - Held a virtual cocreation workshop with participants from Australia, Canada, Finland, Indonesia, Japan, Palestine, Norway, etc.
-  - Delivered over 38 hours of free online English-tutorials to Gazan teens
-  - Conducted over 50 research meetings with steering committee members and research volunteers from Finland, Indonesia, Japan, and United Kingdom
+  - Delivering free online English practice classes to Gazan teens since August 2025
+  - Conducted over 90 research meetings with steering committee members and research volunteers from Finland, Indonesia, Japan, and United Kingdom
+  - Committed over 1000 volunteer hours that partially led to first research article presented at [Muslims in ML Workshop at NeurIPS 2025](muslims-in-ml.md)
   - ...
   - More details on [slide deck](https://tinyurl.com/SAIL-initiatives)
 
