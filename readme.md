@@ -11,17 +11,15 @@
 
 ## About Us
 
-This initiative sits at the intersection of two often conflicting goals*:
+Our group aims to provide **practical, timely support** to marginalized children
+— Sharing STEAM educational resources that can be useful to local educators*
+- Offering them free Zoom English tutorials
 
-- **Practical, timely support** — sharing STEAM educational resources that can be useful to local educators*, offering them free Zoom English tutorials, mentorship, and project supervisions that directly empower individuals in Gaza now
+We also invite interested researchers to co-develop mobile apps for marginalized communities with us.
 
-- **Academic research** — empower all of our unpaid volunteers, especially researchers who need to produce peer-reviewed publications in order to advance their academic careers. For the work to be mutually rewarding, it will align with academic incentives while maintaining ethical integrity.
+We are currently connected with a WhatsApp community of other educators and learners in Gaza and the West Bank. Given the limited volunteer hours, we aim for efforts that are intentionally designed to be manageable, sustainable, and discreet. 
 
-*We are currently connected with an active WhatsApp community of educators and learners in Gaza and the West Bank
 
-Given the limited volunteer hours, we aim for efforts that are intentionally designed to be manageable, sustainable, and discreet. 
-
- 
 ## Beyond 2025 - Hopes and dreams
 
 ### Scale-up English tutorials 
@@ -32,11 +30,10 @@ Given the limited volunteer hours, we aim for efforts that are intentionally des
 ### Virtual cocreation workshop
 
 - To host a second (virtual or in-person) workshop 
-- Can focus on ways to use AI in low-resource settings
 
 ### Translation + image captioning + cultural preservation projects
 
-- Related work: GazaVHR: AI-Driven Legally Grounded Conflict Harm Documentation
+- Details coming soon
 
 ### Empowering non-Palestanians through other social good projects
 
