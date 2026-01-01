@@ -1,5 +1,5 @@
  
-Thank you [NeruIPS 2025 attendees](https://www.musiml.org/events/2025-NeurIPS/accepted_papers.html) for taking time at our poster!
+Thank you [NeurIPS 2025 attendees](https://www.musiml.org/events/2025-NeurIPS/accepted_papers.html) for taking time at our [Muslims in ML poster](https://www.musiml.org/events/2025-NeurIPS/accepted_papers.html)!
 
 ![IMG_20251224_115140](https://github.com/user-attachments/assets/e4d28440-f629-49c5-bbc4-9b3e4714effb)
 
