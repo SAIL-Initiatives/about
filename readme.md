@@ -1,48 +1,48 @@
 # Call to Action: Grassroots Initiatives Bridging Research and Real-World Impact in Gaza
 
-## Who are we? 
+## Who we are 
 
-We are a 100% volunteer-led collective. Please follow us on [Instagram](https://www.instagram.com/sail.initiatives/)
+We are a 100% volunteer-led collectiv working at the intersection of education, research, and community support. Please follow our work on [Instagram](https://www.instagram.com/sail.initiatives/)
 
 Our milestones to date:
-- Held a [virtual cocreation workshop](https://sail-initiatives.github.io/ccw/) with participants from Australia, Canada, Finland, Indonesia, Japan, Palestine, Norway, etc.
-- Delivering free online English practice classes to Gazan teens since August 2025
-- Conducted over 90 research meetings with steering committee members and research volunteers from Finland, Indonesia, Japan, and United Kingdom
-- Committed over 1000 volunteer hours that partially led to first research article presented at [Muslims in ML Workshop at NeurIPS 2025](Muslims-in-ML-2025.md)
-- More details on [slide deck](https://tinyurl.com/SAIL-initiatives)
+- Hosted a [virtual cocreation workshop](https://sail-initiatives.github.io/ccw/) with participants from Australia, Canada, Finland, Indonesia, Japan, Palestine, Norway, and beyond.
+- **English Empowerment Program**: Droviding free weekly online English classes to Gazan teens since August 2025 (over 50+ hours)
+- Conducted over 90+ research meetings with steering committee members and research volunteers from Finland, Indonesia, Japan, and the United Kingdom
+- Contributed over 1000+ volunteer hours, leading to our first research article presented at [Muslims in ML Workshop at NeurIPS 2025](Muslims-in-ML-2025.md)
+- Learn more in our [visual briefs](https://tinyurl.com/SAIL-initiatives)
 
 <hr>
 
 ## About Us
 
-We are currently connected with a WhatsApp community of other educators and learners in Gaza and the West Bank. Given the limited volunteer hours, we aim for efforts that are intentionally designed to be manageable, sustainable, and discreet. 
+We are connected to a WhatsApp-based community of educators and learners across Gaza and the West Bank. Given constrained resources and volunteer capacity, we intentionally design initiatives that are **manageable, sustainable, and discreet**.
 
-We aim to provide **practical, timely support** to marginalized children
-- Sharing STEAM educational resources that can be useful to local educators
-- Offering them free Zoom sessions through our English empowerment program
+Our focus is on delivering **practical, timely support** to marginalized children by:
+- Sharing STEAM educational resources that local educators can readily use
+- Offering free Zoom-based English learning sessions through our English Empowerment Program
 
-We also connect advocates from around the world through unfunded research initiatives.
+In parallel, we connect global advocates and researchers through **unfunded, community-driven research initiatives** that prioritize ethical collaboration and real-world impact.
 
-## Beyond 2025 - Hopes and dreams
+## 2026 & Beyond
 
-### Scale-up English tutorials 
+### Scaling the English Empowerment Program
 
-- Focus on conversational English 
-- Design modularized curricular to facilitate Zoom lessons:
-    - Offline homework
-    - Trauma-coping strategies via use of colors, arts, crafts, sketches, paired readings of picture books 
+- Adopt train-a-trainer model with an emphasis on conversational English
+- Design modular curricula optimized for Zoom-based delivery, including:
+    - Offline homework activities
+    - Trauma-coping strategies using color, art, crafts, sketching, and paired picture-book readings
+      
+### Virtual Workshops
 
-### Virtual cocreation workshop
-
-- To host a second (virtual or in-person) workshop 
+Host more virtual or in-person workshops to strengthen global-local collaboration
 
 ### Translation + image captioning + cultural preservation projects
 
-- Details coming soon
+- Community-centered projects focused on accessibility, storytelling, and cultural continuity
+- Further details forthcoming
 
-### Empowering non-Palestanians through other social good projects
+### Empowering Non-Palestinians Through Social Good Projects
 
-- Combating inequity through AI-assisted interventions
-- We invite interested researchers to co-develop mobile apps for marginalized communities with us
-
+- Addressing inequity through AI-assisted interventions
+- Inviting researchers and practitioners to co-develop mobile applications for marginalized communities
 
