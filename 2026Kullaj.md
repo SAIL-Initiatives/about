@@ -1,19 +1,20 @@
 # Kullaj-making & storytelling workshop
 
-To register for the event, click on 1 of the following 3 links to make a direct donation:
+To register for the event, please follow the visual guide when completing your donations.
 
-🔗 [Mothers for Mothers](https://chuffed.org/project/feedingchildreningaza): ​​Managed by  Rindala Semaan (storyteller at our Kullaj-making workshop)
+Begin by clicking on 1 of the following 3 links to make a direct donation:
 
-🔗 [Gaza Birds Singing band](https://www.gofundme.com/f/hello-peace-help-innocent-people-to-survive?lang=en): Managed by Palestinian musical teacher _Ahmed Muin_
+🔗[Mothers for Mothers](https://chuffed.org/project/feedingchildreningaza): ​​Managed by  Rindala Semaan (storyteller at our Kullaj-making workshop)
 
-🔗 [Evacuate four sisters & scholarships](https://www.gofundme.com/f/help-a-family-of-6-escape-war-in-gaza-urgent-aid-needed): Managed by “Kimberley" 
+🔗[Gaza Birds Singing band](https://www.gofundme.com/f/hello-peace-help-innocent-people-to-survive?lang=en): Managed by Palestinian musical teacher _Ahmed Muin_
 
-Details about each can be reviewed at 
-🔗 [tinyurl.com/KullajBySAIL](https://tinyurl.com/KullajBySAIL)
+🔗[Evacuate four sisters & scholarships](https://www.gofundme.com/f/help-a-family-of-6-escape-war-in-gaza-urgent-aid-needed): Managed by “Kimberley" 
 
-For this event, we can only accept donations made through above campaigns. 
+Details on each charity are summmarized on our 🔗[slides](https://tinyurl.com/KullajBySAIL)
 
-Suggestions/Questions? Please message us on Instagram [@sail.initiatives](https://www.instagram.com/sail.initiatives) or email ccw4gaza@gmail.com
+
+
+Questions/Suggestions? Please message us on Instagram [@sail.initiatives](https://www.instagram.com/sail.initiatives) or email ccw4gaza@gmail.com
 
 
 
