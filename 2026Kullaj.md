@@ -4,9 +4,9 @@ To register for the event, please follow the visual guide when completing your d
 
 Begin by clicking on 1 of the following 3 links to make a direct donation:
 
-🔗[Mothers for Mothers](https://chuffed.org/project/feedingchildreningaza): ​​Managed by  Rindala Semaan (storyteller at our Kullaj-making workshop)
+🔗[Mothers for Mothers](https://chuffed.org/project/feedingchildreningaza): ​​Managed by Rindala Semaan (storyteller at our Kullaj-making workshop)
 
-🔗[Gaza Birds Singing band](https://www.gofundme.com/f/hello-peace-help-innocent-people-to-survive?lang=en): Managed by Palestinian musical teacher _Ahmed Muin_
+🔗[Gaza Birds Singing band](https://www.gofundme.com/f/hello-peace-help-innocent-people-to-survive?lang=en): Managed by Palestinian musica teacher _Ahmed Muin_ who "turned drones into an anthem"
 
 🔗[Evacuate four sisters & scholarships](https://www.gofundme.com/f/help-a-family-of-6-escape-war-in-gaza-urgent-aid-needed): Managed by “Kimberley" 
 
