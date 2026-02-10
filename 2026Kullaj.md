@@ -17,4 +17,4 @@ Suggestions/Questions? Please message us on Instagram @sail.initiatives or email
 
 
 
-<img width="960" alt="SAIL_ Kullaj-Making signup instructions 1-pager" src="https://github.com/user-attachments/assets/c6f80768-7435-40a4-849c-78d8b9251050" />
+<img width="1311"  alt="Example screenshots" src="https://github.com/user-attachments/assets/1311fbdf-732e-4d5a-a691-83e9b69b7f8f" />
