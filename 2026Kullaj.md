@@ -8,7 +8,7 @@ Begin by clicking on 1 of the following 3 links to make a direct donation:
 
 🔗[Gaza Birds Singing band](https://www.gofundme.com/f/hello-peace-help-innocent-people-to-survive?lang=en): Managed by Palestinian musica teacher _Ahmed Muin_ who "turned drones into an anthem" ([Kirn@CDM Dec'25](https://cdm.link/ahmed-muin-palestinian-music-teacher-who-turned-drones-into-an-anthem/))
 
-🔗[Evacuate four sisters & scholarships](https://www.gofundme.com/f/help-a-family-of-6-escape-war-in-gaza-urgent-aid-needed): Managed by “Kimberley" 
+🔗[Evacuate four sisters & scholarships](https://www.gofundme.com/f/help-a-family-of-6-escape-war-in-gaza-urgent-aid-needed): Managed by Kimberley Pearson 
 
 Details on each charity are summmarized on our 🔗[slides](https://tinyurl.com/KullajBySAIL)
 
