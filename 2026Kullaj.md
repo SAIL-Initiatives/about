@@ -9,7 +9,7 @@ To register for the event, click on 1 of the following 3 links to make a direct 
 🔗 [Evacuate four sisters & scholarships](https://www.gofundme.com/f/help-a-family-of-6-escape-war-in-gaza-urgent-aid-needed): Managed by “Kimberley” 
 
 Details about each can be reviewed at 
-🔗 tinyurl.com/KullajBySAIL 
+🔗 [tinyurl.com/KullajBySAIL](https:/tinyurl.com/KullajBySAIL) 
 
 For this event, we can only accept donations made through above campaigns. 
 
