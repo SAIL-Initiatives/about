@@ -13,7 +13,7 @@ Details about each can be reviewed at
 
 For this event, we can only accept donations made through above campaigns. 
 
-Suggestions/Questions? Please message us on Instagram @sail.initiatives or email ccw4gaza@gmail.com
+Suggestions/Questions? Please message us on Instagram [@sail.initiatives](https://www.instagram.com/sail.initiatives) or email ccw4gaza@gmail.com
 
 
 
