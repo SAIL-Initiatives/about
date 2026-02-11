@@ -34,7 +34,10 @@ In parallel, we connect global advocates and researchers through **unfunded, com
       
 ### Virtual Workshops
 
-Host more virtual or in-person workshops to strengthen global-local collaboration
+*Workshops to witness and experience global solidarity*
+
+- Feb 14, 2026 [Kullaj-Making Virtual co-Cooking Workshop](2026Kullaj) 
+
 
 ### Translation + image captioning + cultural preservation projects
 
