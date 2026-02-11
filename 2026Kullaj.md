@@ -1,10 +1,14 @@
 # Kullaj-making & storytelling workshop
 
+<img width="300"  alt="Kullaj-Making Workshop featuring @alifia.na and stories from @rindala.semaan" src="https://github.com/user-attachments/assets/dd3b2e02-a054-48b8-9609-f8e86c0c5897" />
+
+<img width="300"  alt="Not a cooking class!" src="https://github.com/user-attachments/assets/3d99b2fc-ca8d-4501-8741-4feffb9650f3"/>
+
 To register for the event, please follow the visual guide at the bottom when completing your donations.
 
 Start by clicking on 1 of the following 3 links to learn about each campaign:
 
-🔗[Mothers for Mothers](https://chuffed.org/project/feedingchildreningaza): ​​Managed by [Rindala Semaan](https://www.instagram.com/p/B6BOPAIBbov/) (storyteller at our Kullaj-making workshop)
+🔗[Mothers for Mothers](https://chuffed.org/project/feedingchildreningaza): ​​Managed by [Rindala Semaan](https://www.instagram.com/p/B6BOPAIBbov/) (joining us as the *Voice of Heritage* at our Kullaj-making workshop)
 
 🔗[Gaza Birds Singing band](https://www.gofundme.com/f/hello-peace-help-innocent-people-to-survive?lang=en): Managed by Palestinian musica teacher _Ahmed Muin_ who "turned drones into an anthem" ([Kirn@CDM Dec'25](https://cdm.link/ahmed-muin-palestinian-music-teacher-who-turned-drones-into-an-anthem/))
 
