@@ -2,7 +2,7 @@
 
 ## Who we are 
 
-We are a 100% volunteer-led collectiv working at the intersection of education, research, and community support. Please follow our work on [Instagram](https://www.instagram.com/sail.initiatives/)
+We are a 100% volunteer-led collective working at the intersection of education, research, and community support. Please follow our work on [Instagram](https://www.instagram.com/sail.initiatives/)
 
 Our milestones to date:
 - Hosted a [virtual cocreation workshop](https://sail-initiatives.github.io/ccw/) with participants from Australia, Canada, Finland, Indonesia, Japan, Palestine, Norway, and beyond.
