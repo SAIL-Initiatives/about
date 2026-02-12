@@ -31,4 +31,4 @@ Please message us on Instagram [@sail.initiatives](https://www.instagram.com/sai
 <img width="1311"  alt="Example screenshots" src="https://github.com/user-attachments/assets/1311fbdf-732e-4d5a-a691-83e9b69b7f8f" />
 
 
-[About SAIL Initiatives](../readme.md)
+[About SAIL Initiatives](../about/readme.md)
