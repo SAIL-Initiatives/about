@@ -6,7 +6,7 @@ We are a 100% volunteer-led collective working at the intersection of education,
 
 Our milestones to date:
 - Hosted a [virtual cocreation workshop](https://sail-initiatives.github.io/ccw/) with participants from Australia, Canada, Finland, Indonesia, Japan, Palestine, Norway, and beyond.
-- **English Empowerment Program**: Droviding free weekly online English classes to Gazan teens since August 2025 (over 50+ hours)
+- **English Empowerment Program** (EEP): Droviding free weekly online English classes to Gazan teens since August 2025 (over 50+ hours)
 - Conducted over 90+ research meetings with steering committee members and research volunteers from Finland, Indonesia, Japan, and the United Kingdom
 - Contributed over 1000+ volunteer hours, leading to our first research article presented at [Muslims in ML Workshop at NeurIPS 2025](Muslims-in-ML-2025.md)
 - Learn more in our [visual briefs](https://tinyurl.com/SAIL-initiatives)
@@ -15,7 +15,7 @@ Our milestones to date:
 
 ## About Us
 
-We are connected to a WhatsApp-based community of educators and learners across Gaza and the West Bank. Given constrained resources and volunteer capacity, we intentionally design initiatives that are **manageable, sustainable, and discreet**.
+We are connected to a WhatsApp-based community of educators and learners from North Gaza and the West Bank. Given constrained resources and limited volunteer capacity, we intentionally design initiatives that are **manageable, sustainable, and discreet**.
 
 Our focus is on delivering **practical, timely support** to marginalized children by:
 - Sharing STEAM educational resources that local educators can readily use
@@ -36,8 +36,8 @@ In parallel, we connect global advocates and researchers through **unfunded, com
 
 *Workshops to witness and experience global solidarity*
 
-- Feb 14, 2026 [Kullaj-Making Virtual Co-Cooking Workshop](2026Kullaj) 
-
+- 2026: Feb 14 [Kullaj-Making Virtual Co-Cooking Workshop](2026Kullaj) 
+- 2025: June 21, 22, 28, 29 [virtual cocreation workshop](https://sail-initiatives.github.io/ccw/) 
 
 ### Translation + image captioning + cultural preservation projects
 
