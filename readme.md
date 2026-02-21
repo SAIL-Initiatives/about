@@ -30,7 +30,7 @@ Our milestones to date:
 
 ## About Us
 
-We are connected to a WhatsApp-based community of educators and learners from North Gaza and the West Bank. Given constrained resources and limited volunteer capacity, we intentionally design initiatives that are **manageable, sustainable, and discreet**.
+We have multiple WhatsApp-based communities connecting our volunteers to educators and learners from North Gaza and the West Bank. Given constrained resources and limited volunteer capacity, we intentionally design initiatives that are **manageable, sustainable, and discreet**.
 
 Our focus is on delivering **practical, timely support** to marginalized children by:
 - Sharing STEAM educational resources that local educators can readily use
