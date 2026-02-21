@@ -15,9 +15,15 @@ Our milestones to date:
 
 <details>
 <summary>*Empowering...</summary>
-Our free sessions are carefully designed by experienced educators: 
-- 𝗖𝗮𝗿𝗲𝗳𝘂𝗹 𝗰𝘂𝗿𝗮𝘁𝗶𝗼𝗻: To maintain a psychologically safe learning environment, we intentionally avoided potentially sensitive topics such as travel and celebrations that might evoke difficult emotions
-- 𝗦𝗼𝗼𝘁𝗵𝗶𝗻𝗴: We center our lessons on calming themes as music and art, fostering connection to students’ daily realities while honouring their personal resilience, creativity, and growing confidence alongside their English development
+
+- We are adopting a train-a-trainer model with an emphasis on conversational English
+- Our free sessions are carefully designed by experienced educators:
+   - 𝗖𝗮𝗿𝗲𝗳𝘂𝗹 𝗰𝘂𝗿𝗮𝘁𝗶𝗼𝗻: To maintain a psychologically safe learning environment, we intentionally avoided potentially sensitive topics such as travel and celebrations that might evoke difficult emotions
+   - 𝗦𝗼𝗼𝘁𝗵𝗶𝗻𝗴: We center our lessons on calming themes as music and art, fostering connection to students’ daily realities while honouring their personal resilience, creativity, and growing confidence alongside their English development
+- Inclusive approach, including:
+    - Offline homework activities
+    - Integration of trauma-coping strategies using color, art, crafts, sketching, and paired picture-book readings          
+
 </details>
 
 <hr>
@@ -34,17 +40,15 @@ In parallel, we connect global advocates and researchers through **unfunded, com
 
 ## 2026 & Beyond
 
-### Scaling the English Empowerment Program
+### English Empowerment Program
 
-- Adopt train-a-trainer model with an emphasis on conversational English
-- Design modular curricula optimized for Zoom-based delivery, including:
-    - Offline homework activities
-    - Trauma-coping strategies using color, art, crafts, sketching, and paired picture-book readings
-      
+- Enroll more students via recruitment of more volunteers to deliver and / or provide coordination support
+
 ### Virtual Workshops
 
 *Workshops to witness and experience global solidarity*
 
+- 2026: Please email us to propose a topic, time and date of our next workshop at ccw4gaza@gmail.com 
 - 2026: Feb 14 [Kullaj-Making Virtual Co-Cooking Workshop](2026Kullaj) 
 - 2025: June 21, 22, 28, 29 [virtual cocreation workshop](https://sail-initiatives.github.io/ccw/) 
 
@@ -56,5 +60,5 @@ In parallel, we connect global advocates and researchers through **unfunded, com
 ### Empowering Non-Palestinians Through Social Good Projects
 
 - Addressing inequity through AI-assisted interventions
-- Inviting researchers and practitioners to co-develop mobile applications for marginalized communities
+- Inviting researchers and practitioners to co-develop mobile applications for marginalized communities around the world, e.g. Sudan, Congo
 
