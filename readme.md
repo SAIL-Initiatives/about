@@ -8,14 +8,14 @@ Please consider following our event annoucements on [Instagram](https://www.inst
 
 Our milestones to date:
 - Hosted a [virtual cocreation workshop](https://sail-initiatives.github.io/ccw/) with participants from Australia, Canada, Finland, Indonesia, Japan, Palestine, Norway, and beyond.
-- **English Empowerment Program** (EEP): Providing free weekly online English *empowering* lessons to Gazan teens since August 2025 (over 50+ hours)
+- **English Empowerment Program** (EEP): Providing free weekly online English *empowering** lessons to Gazan teens since August 2025 (over 50+ hours)
 - Conducted over 90+ research meetings with steering committee members and research volunteers from Finland, Indonesia, Japan, and the United Kingdom
 - Contributed over 1000+ volunteer hours, leading to our first research article presented at [Muslims in ML Workshop at NeurIPS 2025](Muslims-in-ML-2025.md)
 - Learn more in our [visual briefs](https://tinyurl.com/SAIL-initiatives)
 
 <details>
-<summary>*Empowering</summary>
-
+<summary>*Empowering...</summary>
+Our free sessions are carefully designed by experienced educators: 
 - 𝗖𝗮𝗿𝗲𝗳𝘂𝗹 𝗰𝘂𝗿𝗮𝘁𝗶𝗼𝗻: To maintain a psychologically safe learning environment, we intentionally avoided potentially sensitive topics such as travel and celebrations that might evoke difficult emotions
 - 𝗦𝗼𝗼𝘁𝗵𝗶𝗻𝗴: We center our lessons on calming themes as music and art, fostering connection to students’ daily realities while honouring their personal resilience, creativity, and growing confidence alongside their English development
 </details>
