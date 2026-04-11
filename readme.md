@@ -40,9 +40,9 @@ In parallel, we connect global advocates and researchers through **unfunded, com
 
 ## 2026 & Beyond
 
-### English Empowerment Program
+### [English Empowerment Program](EEP.md)
 
-- Enroll more students via recruitment of more volunteers to deliver and / or provide coordination support
+- We strive to keep the program running 
 
 ### Virtual Workshops
 
