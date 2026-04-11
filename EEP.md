@@ -1,0 +1,40 @@
+
+# English Empowerment Program
+
+<img width="762" height="541" alt="image" src="https://github.com/user-attachments/assets/7912f2be-b9be-462b-9ad2-37d9faaad7b7" />
+
+As a volunteer team, we look back with pride on our shared journey so far...
+
+## 📚 100+ hours since August 2025
+
+More than 𝗳𝗿𝗲𝗲 classes; it’s about our dedication to ensure continual learning and students’ growth each week.
+To make this possible, our teachers from various time zones rotate to rise early or stay up well past midnight.
+Rooted in compassion, this schedule ensures that students can attend classes before sunset, when indoor lighting isn’t needed, an essential consideration for those living in harsh conditions.
+
+## 🌍 Empower girls in G4za
+
+We integrate transformative learning strategies into our curriculum, guiding students toward becoming confident leaders and educators in the future.
+
+## 🤝 Interactive & inclusive
+
+We intentionally create interactive classes where every girl's voice is valued, nurturing both confidence in English and self-expression.
+Our thoughtfully designed offline homework also reinforces learning in a supportive, low-pressure manner, giving students the opportunity to practice and reflect at their own pace.
+
+## 📝 84+ hours of collaborative curriculum development
+
+We care deeply:
+- 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝘃𝗲: We held over 15 group meetings to debrief each class and designed trauma-aware lessons tailored thoughtfully for the following week. Each adjustment was based on students’ engagement and emotional well-being
+- 𝗖𝗮𝗿𝗲𝗳𝘂𝗹 𝗰𝘂𝗿𝗮𝘁𝗶𝗼𝗻: To maintain a psychologically safe learning environment, we intentionally avoided potentially sensitive topics such as travel and celebrations that might evoke difficult emotions
+- 𝗦𝗼𝗼𝘁𝗵𝗶𝗻𝗴: We center our lessons on calming themes as music and art, fostering connection to students’ daily realities while honouring their personal resilience, creativity, and growing confidence alongside their English development
+
+#SeedOfHope 
+#G4zaEducation
+#CaringInclusiveTeaching
+#VolunteerImpact
+
+Our program isn't just about helping marginalized girls learn; it’s about upholding dignity, encouraging healing, and empowering future💛 
+
+
+- Registration for cohort #2: currently closed
+
+- Please email sail.initiatives@proton.me 
