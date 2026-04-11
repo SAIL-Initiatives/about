@@ -1,7 +1,7 @@
 
 # English Empowerment Program
 
-<img width="762" height="541" alt="image" src="https://github.com/user-attachments/assets/7912f2be-b9be-462b-9ad2-37d9faaad7b7" />
+<img width="465" height="463" alt="image" src="https://github.com/user-attachments/assets/cd602c6a-ef04-4cf9-82b1-2f613092f4ec" />
 
 As a volunteer team, we look back with pride on our shared journey so far...
 
@@ -34,7 +34,11 @@ We care deeply:
 
 Our program isn't just about helping marginalized girls learn; it’s about upholding dignity, encouraging healing, and empowering future💛 
 
-
-- Registration for cohort #2: currently closed
+# Available to join us?
 
 - Please email sail.initiatives@proton.me 
+
+# Registering new learners?
+
+- Cohort #2 is now closed; please email to be added to our wait list.
+
