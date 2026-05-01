@@ -42,7 +42,7 @@ In parallel, we connect global advocates and researchers through **unfunded, com
 
 ### [English Empowerment Program](EEP.md)
 
-- We strive to keep the program running 
+- We strive to keep the program running; please contact email if you could volunteer 1 hour/ week
 
 ### Virtual Workshops
 
@@ -55,7 +55,7 @@ In parallel, we connect global advocates and researchers through **unfunded, com
 ### Translation + image captioning + cultural preservation projects
 
 - Community-centered projects focused on accessibility, storytelling, and cultural continuity
-- Further details forthcoming
+- More details to come
 
 ### Empowering Non-Palestinians Through Social Good Projects
 
