@@ -62,5 +62,5 @@ In parallel, we connect global advocates and researchers through **unfunded, com
 - Addressing inequity through AI-assisted interventions
 - Inviting researchers and practitioners to co-develop mobile applications for marginalized communities around the world, e.g. Sudan, Congo
 
-
+<br/><br/>
 <a href="https://info.flagcounter.com/SVDx"><img src="https://s01.flagcounter.com/count2/SVDx/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
