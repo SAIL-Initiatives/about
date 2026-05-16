@@ -33,8 +33,8 @@ Light assessment:
   
 3. **[Asychronous mode]** Learn with a *Pen pal*: for learners wanting to meet new friends from across the globe and practice writing
    
-4. Project-mentorships 
- 
+4. Project-mentorships: e.g. proofreading resumes, applications 
+  
 ## Program for Cohort 1
 
 - 
