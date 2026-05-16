@@ -43,11 +43,12 @@ Light assessment:
 - [5 W's](https://docs.google.com/presentation/d/1CbiBo1gqiz7uagDuyLvGbro5AXA3EgfazfQ6UYL3t-c/)
 - [Fashion and pop culture](https://docs.google.com/presentation/d/1hP4p8iCakG0MJayNKKRYOZ1ISuoG7Tqs9bKxaspbpX4/edit?slide=id.g3891be584e6_0_743)
 - Let's talk about the "Sunflower"
-- Time
+- [Time - Part 1](https://docs.google.com/presentation/d/19PwkSqhXAysGrH6OMobvcMt032uN8HgcWcS2R0IVq0Q/)
 - [My daily life](https://docs.google.com/presentation/d/1_2ESGdFNkYH0pMaLj4ACaK447TYGgTH0Yu6hJqKsppc)
 - [My family and friends](https://docs.google.com/presentation/d/1FxBSRZbG1gPbfccIK2wUp5Z1XLRPk-nPdmozx3jYdac/)
-- Hobbies
-- Ramandan
+- [Hobbies](https://docs.google.com/presentation/d/10zB0PwdCpaWo4t19QmPbmduXmiXVaFgdScyCTlsgQZQ/)
+- Ramandan Part 1 & 2
+- [Religious celebrations](https://docs.google.com/presentation/d/1COZxnc8WJVVCtfdMxFdqZ4eV7luyMBy2_I-N4_jr2Yo)
 - Dreams & Aspirations
 - Emotion
 
@@ -64,11 +65,15 @@ Light assessment:
 
 ## Under construction
 
-Materials compiled by prompting AI (need to fix fontsize)
+Materials compiled by prompting AI (need to fix fontsize):
 - [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/)
 - [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/)
 - [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/)
 
+Hand compiled:
+- [Cultural heritage - Part 1](https://docs.google.com/presentation/d/1CpyQ237cdTunXj2g-SCTpTBtelroqcqT8_5SWRfWEj8/)
+- [All about water](https://docs.google.com/presentation/d/1Ra4RkvqM4m1vYOZ0QsT-vXDVZX75c6ooCVfYiXNK3Vo/)
+ 
 ## Emergency materials
 
 - [Phonic-reading for easy readers](https://docs.google.com/presentation/d/1eNr56a3zgy0YYRZ1lO5SkEmKwzVA9IGKrFkaNbkoRQE)
