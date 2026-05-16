@@ -1,25 +1,41 @@
 
 *Page under construction*
 
-# Volunteer's Resource Hub & Learning Commons
+# Volunteers' Resource Hub & Learning Commons
 
-*Low-bandwidth teaching materials for volunteer educators and learners*
+Building this page for quick access to low-bandwidth teaching materials for volunteer educators and learners. 
 
 
 ## Getting to know your first learner
 
 Tips for new volunteers - [slide deck coming soon](x)
 
-- Icebreakers
- - [visual search](https://docs.google.com/presentation/d/1TnWrgKTQTgm9xHSYEZUi95SrFrfYHVSqnsnhtZxfHvg/)
+### Communicating terms
 
+- Zoom: muted, raise your hand, wave your hand
+- [Doodling vs drawing vs illustrating](https://docs.google.com/presentation/d/1N-x8EsDWF9ndYkJwNR-aF8W28GpWddl-xGLLqW-hgkA/)
+- [Emoji](https://docs.google.com/presentation/d/1IZaMWpB-yNYqueyyJ5cztmpC66CJJgY-17mabCJ_Coo/)
+ 
+### Icebreakers
+
+- [Visual search](https://docs.google.com/presentation/d/1TnWrgKTQTgm9xHSYEZUi95SrFrfYHVSqnsnhtZxfHvg/)
+
+Light assessment:
+- [Describe what you see exercises](https://docs.google.com/presentation/d/1ZrXpmReeKbfGs7olVXiT2JDnrIrsjpv48bghjfGZlMg/edit?slide=id.g3d38f1ac2a2_0_0#slide=id.g3d38f1ac2a2_0_0)
+- [Build a sentence/ story with emoji's](https://docs.google.com/presentation/d/1IZaMWpB-yNYqueyyJ5cztmpC66CJJgY-17mabCJ_Coo/)
+
+## Learning modes
+- Reading buddy, e.g. [Akansha's PDF book]()
+- "Pen pal"
  
 ## Program for Cohort 1
 
+- 
+- [Asma and Norway](https://docs.google.com/presentation/d/1s95rMw8HsHEQc7DcieCQZChl-WLnoFwAAft6z0ylb1I/)
 - 5 W's
 - Let's talk about the "Sunflower"
 - Time
-- My daily life
+- [My daily life](https://docs.google.com/presentation/d/1_2ESGdFNkYH0pMaLj4ACaK447TYGgTH0Yu6hJqKsppc)
 - [My family and friends](https://docs.google.com/presentation/d/1FxBSRZbG1gPbfccIK2wUp5Z1XLRPk-nPdmozx3jYdac/)
 - Hobbies
 - Ramandan
@@ -31,7 +47,8 @@ Tips for new volunteers - [slide deck coming soon](x)
 | Month |  Link | Topics touched on |
 | :-- | :-- | :-- |
 | 2026-04 | [link]() | Self-introductions |
-| 2026-04 | [link]() | Space 101 |
+|  | [link]() | Space 101 |
+| |  |
 | 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | Fun grammar with Prita <br/> Map of our latest virtual room <br/> Symptoms |
 | | |
 
@@ -47,6 +64,7 @@ Materials compiled by prompting AI (need to fix fontsize)
 
 - [Phonic-reading for easy readers](https://docs.google.com/presentation/d/1eNr56a3zgy0YYRZ1lO5SkEmKwzVA9IGKrFkaNbkoRQE)
 
+ 
 # ❤️ Principles
 
 Content - keep materials:
