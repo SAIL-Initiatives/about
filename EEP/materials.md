@@ -91,33 +91,33 @@ Content - keep materials:
 
 <summary>Click here to see more notes for slide designers</summary>
 
+## Let an image span the entire slide vertically!
+
+- Don't worry about margins
+- ***Readability/accessbility over aesthetics***
+
+## Huge font size: no smaller than 40 points
+
+Be careful with maps too!
+- e.g. a city that is barely visible on your laptop screen will be unlikely readable on learner's mobile screen. 
+
+  
+## Integrate Teachers' notes directly on the slide
 
 To reduce volunteer stress and preparation time:
+- May not want to use "speaker notes" but place teacher notes directly on the slide
 
-- place teacher notes directly on the slide
-- do not rely on speaker notes
-- volunteers often teach from phones, tablets, PDFs, or unstable Zoom setups where speaker notes are hard to access
+Rationale: teachers can quickly guide the lesson without juggling the presentation modes and also teachers may skip prep-time (the teacher can still reference them when needed)
 
-Recommended:
-- use very small font
-- place notes at the bottom corner of the slide
-- use light gray text if needed
-- keep notes short and practical
-
-Goal:
-> teachers can quickly guide the lesson without switching windows or searching documents
-
-The notes should be small enough that:
-- learners will usually not read them
-- the slide still feels visually clean
-- the teacher can still reference them when needed
+- If this approach is adopted:
+  - use a very small font so learners will not read
+  - place notes at the top corners of the slide
+  - keep notes short and practical
 
 Examples:
-- “Ask follow-up questions here”
-- “Use WhatsApp voice notes if audio fails”
-- “Skip activity if internet is unstable”
-- “Good point for pronunciation correction”
-- “Allow Arabic discussion first if needed”
+> Teacher: Ask learner follow-up questions here
+> Teacher: Skip activity if internet is unstable
+> Teacher: Allow Arabic discussion first if needed
 
 ---
 
@@ -125,7 +125,7 @@ Examples:
 
 Many volunteers teach:
 - while multitasking
-- with unstable internet
+- learners with unstable Internet / noisy background / 
 - without dual monitors
 - from shared/community spaces
 - under time pressure
@@ -136,4 +136,5 @@ Embedded teacher notes reduce:
 - forgotten instructions
 - onboarding difficulty for substitute volunteers
 - ...
+
 </details>
