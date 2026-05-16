@@ -39,7 +39,9 @@ Light assessment:
 
 - 
 - [Asma and Norway](https://docs.google.com/presentation/d/1s95rMw8HsHEQc7DcieCQZChl-WLnoFwAAft6z0ylb1I/)
-- 5 W's
+- [Ali and Qatar](https://docs.google.com/presentation/d/1n6hyrdMyFfs15xZ9UmFt_2TNRrKnHpJXPZ-XILoCvbM/)
+- [5 W's](https://docs.google.com/presentation/d/1CbiBo1gqiz7uagDuyLvGbro5AXA3EgfazfQ6UYL3t-c/)
+- [Fashion and pop culture](https://docs.google.com/presentation/d/1hP4p8iCakG0MJayNKKRYOZ1ISuoG7Tqs9bKxaspbpX4/edit?slide=id.g3891be584e6_0_743)
 - Let's talk about the "Sunflower"
 - Time
 - [My daily life](https://docs.google.com/presentation/d/1_2ESGdFNkYH0pMaLj4ACaK447TYGgTH0Yu6hJqKsppc)
@@ -53,7 +55,7 @@ Light assessment:
 
 | Month |  Link | Topics touched on |
 | :-- | :-- | :-- |
-| 2026-04 | [link]() | Self-introductions |
+| 2026-04 | [link](https://docs.google.com/presentation/d/1FLJk9AWWTUXi1T7bmyzVOzi9D55zkGUn79XGkNf6-Nc/) | Self-introductions |
 |  | [link]() | Space 101 |
 | |  |
 | 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | Fun grammar with Prita <br/> Map of our latest virtual room <br/> Symptoms |
@@ -70,7 +72,7 @@ Materials compiled by prompting AI (need to fix fontsize)
 ## Emergency materials
 
 - [Phonic-reading for easy readers](https://docs.google.com/presentation/d/1eNr56a3zgy0YYRZ1lO5SkEmKwzVA9IGKrFkaNbkoRQE)
-
+- [What is "pen pal"?](https://docs.google.com/presentation/d/1GU-nvbI3roS4tBc0xHyTlZgY0qljjTUNrqCTheJ8Ozs) ***please do not circulate; sensitive content***
  
 # ❤️ Principles
 
