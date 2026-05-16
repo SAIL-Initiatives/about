@@ -20,7 +20,8 @@ Tips for new volunteers - [slide deck coming soon](x)
 
 - [Visual search](https://docs.google.com/presentation/d/1TnWrgKTQTgm9xHSYEZUi95SrFrfYHVSqnsnhtZxfHvg/)
 
-Light assessment:
+## Light assessment
+
 - [Describe what you see exercises](https://docs.google.com/presentation/d/1ZrXpmReeKbfGs7olVXiT2JDnrIrsjpv48bghjfGZlMg/edit?slide=id.g3d38f1ac2a2_0_0#slide=id.g3d38f1ac2a2_0_0)
 - [Build a sentence/ story with emoji's](https://docs.google.com/presentation/d/1IZaMWpB-yNYqueyyJ5cztmpC66CJJgY-17mabCJ_Coo/)
 
@@ -37,7 +38,6 @@ Light assessment:
   
 ## Program for Cohort 1
 
-- 
 - [Asma and Norway](https://docs.google.com/presentation/d/1s95rMw8HsHEQc7DcieCQZChl-WLnoFwAAft6z0ylb1I/)
 - [Ali and Qatar](https://docs.google.com/presentation/d/1n6hyrdMyFfs15xZ9UmFt_2TNRrKnHpJXPZ-XILoCvbM/)
 - [5 W's](https://docs.google.com/presentation/d/1CbiBo1gqiz7uagDuyLvGbro5AXA3EgfazfQ6UYL3t-c/)
@@ -59,7 +59,7 @@ Light assessment:
 | 2026-04 | [link](https://docs.google.com/presentation/d/1FLJk9AWWTUXi1T7bmyzVOzi9D55zkGUn79XGkNf6-Nc/) | Self-introductions |
 |  | [link]() | Space 101 |
 | |  |
-| 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | Fun grammar with Prita <br/> Map of our latest virtual room <br/> Symptoms |
+| 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | - Fun grammar with Prita <br/> - Map of our latest virtual room <br/> - Health 101: Symptoms |
 | | |
 
 
