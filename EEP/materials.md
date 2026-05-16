@@ -57,7 +57,7 @@ Content - keep materials:
 
 <details>
 
-<summary>Notes for slide designers</summary>
+<summary>Click here to see more notes for slide designers</summary>
 
 
 To reduce volunteer stress and preparation time:
@@ -99,9 +99,9 @@ Many volunteers teach:
 - under time pressure
 
 Embedded teacher notes reduce:
-- panic
+- stress/ prep time
 - tab switching
 - forgotten instructions
 - onboarding difficulty for substitute volunteers
-- 
+- ...
 </details>
