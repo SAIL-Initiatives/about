@@ -40,7 +40,7 @@ In parallel, we connect global advocates and researchers through **unfunded, com
 
 ## 2026 & Beyond
 
-### [English Empowerment Program](EEP.md)
+### [English Empowerment Program](EEP/)
 
 - We strive to keep the program running; please contact email if you could volunteer 1 hour/ week
 
