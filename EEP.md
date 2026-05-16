@@ -20,7 +20,7 @@ We integrate transformative learning strategies into our curriculum, guiding stu
 We intentionally create interactive classes where every girl's voice is valued, nurturing both confidence in English and self-expression.
 Our thoughtfully designed offline homework also reinforces learning in a supportive, low-pressure manner, giving students the opportunity to practice and reflect at their own pace.
 
-## 📝 84+ hours of collaborative curriculum development
+## 📝 100+ hours of collaborative curriculum development
 
 We care deeply:
 - 𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝘃𝗲: We held over 15 group meetings to debrief each class and designed trauma-aware lessons tailored thoughtfully for the following week. Each adjustment was based on students’ engagement and emotional well-being
