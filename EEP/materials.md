@@ -11,14 +11,16 @@
 Tips for new volunteers - [slide deck coming soon](x)
 
 - Icebreakers
-- 5 W's
-- Artworks
+ - [visual search](https://docs.google.com/presentation/d/1TnWrgKTQTgm9xHSYEZUi95SrFrfYHVSqnsnhtZxfHvg/)
+
  
 ## Program for Cohort 1
 
+- 5 W's
+- Let's talk about the "Sunflower"
 - Time
 - My daily life
-- Families and friends
+- [My family and friends](https://docs.google.com/presentation/d/1FxBSRZbG1gPbfccIK2wUp5Z1XLRPk-nPdmozx3jYdac/)
 - Hobbies
 - Ramandan
 - Dreams & Aspirations
@@ -26,10 +28,24 @@ Tips for new volunteers - [slide deck coming soon](x)
 
 ## Program for Cohort 2
 
-| Topic | Link |
-| :-- | :-- |
-| Self-introductions | |
-| Fun grammar with Prita | |
+| Month |  Link | Topics touched on |
+| :-- | :-- | :-- |
+| 2026-04 | [link]() | Self-introductions |
+| 2026-04 | [link]() | Space 101 |
+| 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | Fun grammar with Prita <br/> Map of our latest virtual room <br/> Symptoms |
+| | |
+
+
+## Under construction
+
+Materials compiled by prompting AI (need to fix fontsize)
+- [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/)
+- [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/)
+- [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/)
+
+## Emergency materials
+
+- [Phonic-reading for easy readers](https://docs.google.com/presentation/d/1eNr56a3zgy0YYRZ1lO5SkEmKwzVA9IGKrFkaNbkoRQE)
 
 # ❤️ Principles
 
