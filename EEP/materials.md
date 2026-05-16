@@ -25,8 +25,15 @@ Light assessment:
 - [Build a sentence/ story with emoji's](https://docs.google.com/presentation/d/1IZaMWpB-yNYqueyyJ5cztmpC66CJJgY-17mabCJ_Coo/)
 
 ## Learning modes
-- Reading buddy, e.g. [Akansha's PDF book]()
-- "Pen pal"
+
+1. Paired-learning
+   
+2. Reading buddy: read along a picture book with teacher
+ - [Foler](https://drive.google.com/drive/folders/12Fd4r3PEO4-DSm6xSK5L2Ti6h4GrM0Hv) contains Akansha's PDF book, etc.
+  
+3. **[Asychronous mode]** Learn with a *Pen pal*: for learners wanting to meet new friends from across the globe and practice writing
+   
+4. Project-mentorships 
  
 ## Program for Cohort 1
 
