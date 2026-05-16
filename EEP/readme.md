@@ -12,7 +12,8 @@
 <br/>
 <br/> 
 <img width="421" height="404" alt="image" src="https://github.com/user-attachments/assets/0975b5a7-2e7a-4a33-a87f-da59e8851a0d" />
-
+<br/> 
+<br/> 
 As a volunteer team, we look back with pride on our shared journey so far...
 
 ## 📚 100+ hours since August 2025
