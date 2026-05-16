@@ -1,7 +1,7 @@
 
 # English Empowerment Program
 
-- **Our Mission**: Empowering Gazan teens through free, weekly, online English practice sessions.
+- **Our Mission**: Empowering Palestinian girls through free, weekly, online English practice sessions.
 - **Impact**: Successfully delivered 36 consecutive weeks of uninterrupted lessons since launching by request in August 2025.
 
 ## Volunteers
