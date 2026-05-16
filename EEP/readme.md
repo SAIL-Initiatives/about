@@ -1,12 +1,17 @@
 
 # English Empowerment Program
 
+- **Goals**: Providing free weekly online English empowering* pracice lessons to Gazan teens 
+- **Achievement to date**: Successfully delivered 36 consecutive weeks of uninterrupted lessons since launching by request in August 2025.
+
 ## Volunteers
 
 - [Access to materials](materials.md)
 
-
-<img width="465" height="463" alt="image" src="https://github.com/user-attachments/assets/cd602c6a-ef04-4cf9-82b1-2f613092f4ec" />
+<br/>
+<br/>
+<br/> 
+<img width="421" height="404" alt="image" src="https://github.com/user-attachments/assets/0975b5a7-2e7a-4a33-a87f-da59e8851a0d" />
 
 As a volunteer team, we look back with pride on our shared journey so far...
 
