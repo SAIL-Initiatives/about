@@ -8,7 +8,9 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 
 ## Getting to know your first learner
 
-Tips for new volunteers - [slide deck coming soon](x)
+- Tips for new volunteers: [slide deck coming soon](x)
+
+- How we may introduce ourselves with ["Map of our classroom"](https://docs.google.com/presentation/d/1qFO88DO_fdIIeIBoMrizb-WGZw_cyp4lZe3um-4q7nU/)
 
 ### Communicating terms
 
