@@ -7,7 +7,8 @@
 
 ## Volunteers
 
-- [Access to materials](materials.md)
+- [Weekly planner](https://docs.google.com/presentation/d/1EGBBDs8oF-2FStwSjvPFInYaeAlBjcThmq8NuDoykfI/)
+- [Resource Hub](materials.md)
 
 <br/>
 <br/>
