@@ -50,7 +50,7 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 - [My daily life](https://docs.google.com/presentation/d/1_2ESGdFNkYH0pMaLj4ACaK447TYGgTH0Yu6hJqKsppc)
 - [My family and friends](https://docs.google.com/presentation/d/1FxBSRZbG1gPbfccIK2wUp5Z1XLRPk-nPdmozx3jYdac/)
 - [Hobbies](https://docs.google.com/presentation/d/10zB0PwdCpaWo4t19QmPbmduXmiXVaFgdScyCTlsgQZQ/)
-- Ramandan Part 1 & 2
+- Ramadan Part 1 & 2
 - [Religious celebrations](https://docs.google.com/presentation/d/1COZxnc8WJVVCtfdMxFdqZ4eV7luyMBy2_I-N4_jr2Yo)
 - Dreams & Aspirations
 - Emotion
