@@ -10,6 +10,9 @@
 - [Weekly planner](https://docs.google.com/presentation/d/1EGBBDs8oF-2FStwSjvPFInYaeAlBjcThmq8NuDoykfI/)
 - [Resource Hub](materials.md)
 
+## Empowering volunteers
+- [List of potential funding resources to support our cause](../calendar)
+ 
 <br/>
 <br/>
 <br/> 
