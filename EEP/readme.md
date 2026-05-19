@@ -12,6 +12,8 @@
 
 ## Empowering volunteers
 - [List of potential funding resources to support our cause](../calendar)
+
+ 
  
 <br/>
 <br/>
@@ -21,9 +23,11 @@
 <br/> 
 <br/> 
 <br/> 
-As a volunteer team, we look back with pride on our shared journey so far...
 <br/>
 
+<details> 
+
+<summary>About</summary>
 
 ## 📚 100+ hours since August 2025
 
@@ -54,11 +58,14 @@ We care deeply:
 
 Our program isn't just about helping marginalized girls learn; it’s about upholding dignity, encouraging healing, and empowering future💛 
 
-# Available to join us?
+</details>
+
+
+## Available to join us?
 
 - Please email sail.initiatives@proton.me 
 
-# Registering new learners?
+## Registering new learners?
 
 - Cohort #2 is now closed; please email to be added to our wait list.
 
