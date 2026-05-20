@@ -96,15 +96,16 @@ Content - keep materials:
 
 ## 1. Let an image span the entire slide vertically!
 
-- Don't worry about margins
+- Don't worry too much about margins
 - ***Readability/ accessbility over aesthetics***
 
+<br/>
 ## 2. Huge font size: no smaller than 40 points
 
 Be careful with maps too!
 - e.g. a city that is barely visible on your laptop screen will be unlikely readable on learner's mobile screen. 
 
-  
+<br/>  
 ## 3. Integrate Teachers' notes directly on the slide
 
 To reduce volunteer stress and preparation time:
