@@ -57,13 +57,18 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 
 ## Program for Cohort 2
 
-| Month |  Link | Topics touched on |
+| Month |  Link | Highlights |
 | :-- | :-- | :-- |
 | 2026-04 | [link](https://docs.google.com/presentation/d/1FLJk9AWWTUXi1T7bmyzVOzi9D55zkGUn79XGkNf6-Nc/) | Self-introductions |
 |  | [link]() | Space 101 |
 | |  |
 | 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | - Fun grammar with Prita <br/> - Map of our latest virtual room <br/> - Health 101: Symptoms |
-| 05-23 | Suggestions: [Spelling & writing for Alma?](https://docs.google.com/presentation/d/1D0bk2ELmKQk5NEBXwHrBif8kZen5UWBm8ewFht9oiMQ/edit?slide=id.g3d5269c9c0f_0_39#slide=id.g3d5269c9c0f_0_39) <br/> Fun grammar with Prita for Sama <br/> |
+| 05-23 | | [Floating city](https://docs.google.com/presentation/d/1XloQj7Vj_hcK-VoyZz9RCkndNaV6UNtFJw17lozGuhM/) - visual comparision & English: might vs. could vs may |
+
+
+## Suggestions for future class:
+
+- [Spelling & writing for YA?](https://docs.google.com/presentation/d/1D0bk2ELmKQk5NEBXwHrBif8kZen5UWBm8ewFht9oiMQ/) 
 
 
 ## Under construction
