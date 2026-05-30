@@ -1,9 +1,11 @@
 
 
 
-# List of applications calls for scholarships, internships, grants, etc.
+# Application calendar 
 
-*Upcoming & (projections of future) deadlines*
+List of *upcoming & (projections of future) deadlines* for scholarships, internships, grants, etc.
+
+
 
 | Month | Link |
 | :-- | :-- |
