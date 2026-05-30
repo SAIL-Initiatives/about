@@ -17,7 +17,7 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | May | Women in Machine Learning (WiML) |
 | June | [Japan: Heart research](https://bcvr-ishr2026.mq-con.jp/travel_grant/) |
 | August | [AAAI-Sponsored “AIx” Pop-Up Events Worldwide](https://aaai.org/membership/aix-pop-up/) |
-| Oct | [Montreal: Symposium on Model Accountability, Sustainability and Healthcare](https://smashcon.org/en/) |
+| August | [Montreal: Symposium on Model Accountability, Sustainability and Healthcare](https://smashcon.org/en/) |
 | Oct | [AI for Humanity](https://aaai.org/about-aaai/aaai-awards/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity-call/) |
 | Nov | WiML |
 | Nov | [AAAI Student Scholar Volunteer Program](https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/)|
