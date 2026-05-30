@@ -1,7 +1,9 @@
 
-# Dates to watch out for 
 
-List of calls for applications, scholarship, internship, grants, etc.
+
+# List of applications calls for scholarships, internships, grants, etc.
+
+*Upcoming & (projections of future) deadlines*
 
 | Month | Link |
 | :-- | :-- |
@@ -14,6 +16,9 @@ List of calls for applications, scholarship, internship, grants, etc.
 | Oct | [AI for Humanity](https://aaai.org/about-aaai/aaai-awards/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity-call/) |
 | Nov | WiML |
 | Nov | [AAAI Student Scholar Volunteer Program](https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/)|
+
+
+[Learn about the English Empowerment Program here](https://sail-initiatives.github.io/about/EEP/)
 
 <br/>
 <br/>
