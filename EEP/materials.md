@@ -6,20 +6,21 @@
 
 Building this page for quick access to low-bandwidth teaching materials for volunteer educators and learners. 
 
+<details> 
+<summary>Getting to know your first learner</summary> 
 
-## Getting to know your first learner
 
 - Tips for new volunteers: [slide deck coming soon](https://docs.google.com/presentation/d/1tRKUrDOY1y0P8orA-6wGKn4S93SbviQdus2DvSpqd3Y/)
 
 - How we may introduce ourselves with ["Map of our classroom"](https://docs.google.com/presentation/d/1qFO88DO_fdIIeIBoMrizb-WGZw_cyp4lZe3um-4q7nU/)
 
-### Communicating terms
+## Communicating terms
 
 - Zoom: muted, raise your hand, wave your hand
 - [Doodling vs drawing vs illustrating](https://docs.google.com/presentation/d/1N-x8EsDWF9ndYkJwNR-aF8W28GpWddl-xGLLqW-hgkA/)
 - [Emoji](https://docs.google.com/presentation/d/1IZaMWpB-yNYqueyyJ5cztmpC66CJJgY-17mabCJ_Coo/)
  
-### Icebreakers
+## Icebreakers
 
 - [Visual search](https://docs.google.com/presentation/d/1TnWrgKTQTgm9xHSYEZUi95SrFrfYHVSqnsnhtZxfHvg/)
 
@@ -28,7 +29,12 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 - [Describe what you see exercises](https://docs.google.com/presentation/d/1ZrXpmReeKbfGs7olVXiT2JDnrIrsjpv48bghjfGZlMg/edit?slide=id.g3d38f1ac2a2_0_0#slide=id.g3d38f1ac2a2_0_0)
 - [Build a sentence/ story with emoji's](https://docs.google.com/presentation/d/1IZaMWpB-yNYqueyyJ5cztmpC66CJJgY-17mabCJ_Coo/)
 
-## Learning modes
+</details>
+
+
+<details>
+
+<summary> Learning modes </summary>
 
 1. Paired learning
    
@@ -38,8 +44,10 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 3. **[Asychronous mode]** Learn with a *Pen pal*: for learners wanting to meet new friends from across the globe and practice writing
    
 4. Project-mentorships: e.g. proofreading resumes, applications 
+
+</details>
   
-## Program for Cohort 1
+## Program for Cohort 1 
 
 - [Asmaa and Norway](https://docs.google.com/presentation/d/1s95rMw8HsHEQc7DcieCQZChl-WLnoFwAAft6z0ylb1I/)
 - [Ali and Qatar](https://docs.google.com/presentation/d/1n6hyrdMyFfs15xZ9UmFt_2TNRrKnHpJXPZ-XILoCvbM/)
@@ -65,7 +73,7 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 | 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | - Fun grammar with Prita <br/> - Map of our latest virtual room <br/> - Health 101: Symptoms |
 | 05-23 | | [Floating city](https://docs.google.com/presentation/d/1XloQj7Vj_hcK-VoyZz9RCkndNaV6UNtFJw17lozGuhM/) - visual comparision & English: might vs. could vs may |
 
-## Rest of June 
+Rest of June, 2026 
 
 Materials compiled by prompting AI (need to fix fontsize):  
 - [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/)
