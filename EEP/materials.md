@@ -7,7 +7,7 @@
 Building this page for quick access to low-bandwidth teaching materials for volunteer educators and learners. 
 
 <details> 
-<summary>Getting to know your first learner</summary> 
+<summary>Getting to know your first learner [Click me]</summary> 
 
 
 - Tips for new volunteers: [slide deck coming soon](https://docs.google.com/presentation/d/1tRKUrDOY1y0P8orA-6wGKn4S93SbviQdus2DvSpqd3Y/)
@@ -34,7 +34,7 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 
 <details>
 
-<summary>Learning modes </summary>
+<summary>Learning modes [Click me]</summary>
 
 1. Paired learning
    
