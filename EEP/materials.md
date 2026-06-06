@@ -40,7 +40,11 @@ Building this page for quick access to low-bandwidth teaching materials for volu
    
 2. Reading buddy: read along a picture book with teacher
  - [Folder](https://drive.google.com/drive/folders/12Fd4r3PEO4-DSm6xSK5L2Ti6h4GrM0Hv) contains Akansha's PDF book, etc.
-  
+
+ - https://www.letsreadasia.org/ 
+
+ - https://freekidsbook.org
+
 3. **[Asychronous mode]** Learn with a *Pen pal*: for learners wanting to meet new friends from across the globe and practice writing
    
 4. Project-mentorships: e.g. proofreading resumes, applications 
