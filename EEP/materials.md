@@ -65,19 +65,21 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 | 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | - Fun grammar with Prita <br/> - Map of our latest virtual room <br/> - Health 101: Symptoms |
 | 05-23 | | [Floating city](https://docs.google.com/presentation/d/1XloQj7Vj_hcK-VoyZz9RCkndNaV6UNtFJw17lozGuhM/) - visual comparision & English: might vs. could vs may |
 
+## Rest of June 
+
+Materials compiled by prompting AI (need to fix fontsize):  
+- [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/)
+- [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/)
+- [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/)
+- [One Piece](https://docs.google.com/presentation/d/1b2Em1fyyCGbBUnSrmnxxjy999-ukkQZD)
+
 
 ## Suggestions for future class:
 
 - [Spelling & writing for YA?](https://docs.google.com/presentation/d/1D0bk2ELmKQk5NEBXwHrBif8kZen5UWBm8ewFht9oiMQ/) 
 
-
 ## Under construction
-
-Materials compiled by prompting AI (need to fix fontsize):
-- [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/)
-- [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/)
-- [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/)
-
+ 
 Compiled by hand (not completed):
 - [Cultural heritage - Part 1](https://docs.google.com/presentation/d/1CpyQ237cdTunXj2g-SCTpTBtelroqcqT8_5SWRfWEj8/)
 - [All about water](https://docs.google.com/presentation/d/1Ra4RkvqM4m1vYOZ0QsT-vXDVZX75c6ooCVfYiXNK3Vo/)
