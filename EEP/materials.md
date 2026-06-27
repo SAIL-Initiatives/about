@@ -82,13 +82,12 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 
 | Time of creation |  Link | Notes |
 | :-- | :-- | :-- |
-| Materials compiled by prompting AI (need to fix fontsize) |  
-| 2026-05-20 | [One Piece](https://docs.google.com/presentation/d/1b2Em1fyyCGbBUnSrmnxxjy999-ukkQZD) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
+| <td colspan="3"> Materials compiled by prompting AI (need to fix fontsize) </td> | 
+| 2026-05-20 | [One Piece](https://docs.google.com/presentation/d/1b2Em1fyyCGbBUnSrmnxxjy999-ukkQZD) | - Perhaps for Learner 1 (Minecraft) + Learner 2 (Onepiece) |
 | | [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/) | |
 | | [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/) | |
 | | [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/) | |
-
-| Manually curated |
+| <td colspan="3"> Manually curated </td> |
 | 2026-06-26 | [tinyurl.com/nature4eep](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
 |   | [tinyurl.com/nature4eep](tinyurl.com/essentials) | - chores at home, work<br>drawing, calligraphy, plotting, calculation<br>- ... |
 |   | [tinyurl.com/nature4eep](tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
