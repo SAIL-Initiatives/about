@@ -77,13 +77,23 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 | 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | - Fun grammar with Prita <br/> - Map of our latest virtual room <br/> - Health 101: Symptoms |
 | 05-23 | | [Floating city](https://docs.google.com/presentation/d/1XloQj7Vj_hcK-VoyZz9RCkndNaV6UNtFJw17lozGuhM/) - visual comparision & English: might vs. could vs may |
 | 06-06 | [tinyurl.com/math4EEP](tinyurl.com/math4EEP) ```Math 101``` |
-Rest of June, 2026 
 
-Materials compiled by prompting AI (need to fix fontsize):  
-- [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/)
-- [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/)
-- [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/)
-- [One Piece](https://docs.google.com/presentation/d/1b2Em1fyyCGbBUnSrmnxxjy999-ukkQZD)
+## Preparing for Cohort 2
+
+| Time of creation |  Link | Notes |
+| :-- | :-- | :-- |
+| Materials compiled by prompting AI (need to fix fontsize) |  
+| 2026-05-20 | [One Piece](https://docs.google.com/presentation/d/1b2Em1fyyCGbBUnSrmnxxjy999-ukkQZD) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
+| | [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/) | |
+| | [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/) | |
+| | [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/) | |
+
+| Manually curated |
+| 2026-06-26 | [tinyurl.com/nature4eep](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
+|   | [tinyurl.com/nature4eep](tinyurl.com/essentials) | - chores at home, work<br>drawing, calligraphy, plotting, calculation<br>- ... |
+|   | [tinyurl.com/nature4eep](tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
+
+
 
 
 ## Suggestions for future class:
