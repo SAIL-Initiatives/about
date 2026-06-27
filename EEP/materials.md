@@ -82,7 +82,7 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 
 | Time of creation |  Link | Notes |
 | :-- | :-- | :-- |
-| AI-generated (need to fix fonts) |
+| AI-generated | | (need to fix fonts) |
 | 2026-05-20 | [One Piece](https://docs.google.com/presentation/d/1b2Em1fyyCGbBUnSrmnxxjy999-ukkQZD) | - Perhaps for Learner 1 (Minecraft) + Learner 2 (Onepiece) |
 | | [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/) | |
 | | [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/) | |
