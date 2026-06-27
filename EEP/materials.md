@@ -89,7 +89,7 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 | | [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/) | |
 | Manually curated  |
 | 2026-06-26 | [tinyurl.com/nature4eep](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
-|   | [tinyurl.com/nature4eep](tinyurl.com/essentials) | - home (chores), play, work<br>- drawing, calligraphy, plotting, calculations<br>- Friendship, ... |
+|   | [tinyurl.com/nature4eep](tinyurl.com/essentials) | - home (chores), play, work<br>- drawing, calligraphy, plotting, math<br>- Friendship, ... |
 |   | [tinyurl.com/nature4eep](tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
 
 
