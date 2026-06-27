@@ -1,0 +1,19 @@
+---
+---
+// 1. First, import the native midnight theme styles dynamically
+@import "{{ site.theme }}";
+
+// 2. Open up the outer framework layout wrapper
+.wrapper {
+  max-width: 95% !important;  // Adjust to 100% if you want zero side margin
+  width: 95% !important;
+  margin: 0 auto !important;
+  padding: 0 20px !important;
+}
+
+// 3. Open up the main text container body structure 
+section {
+  max-width: 100% !important;
+  width: 100% !important;
+  padding: 0 0 50px 0 !important;
+}
