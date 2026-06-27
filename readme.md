@@ -8,8 +8,8 @@ Please consider following our event annoucements on [Instagram](https://www.inst
 
 Our milestones to date:
 - Hosted a [virtual cocreation workshop](https://sail-initiatives.github.io/ccw/) with participants from Australia, Canada, Finland, Indonesia, Japan, Palestine, Norway, and beyond.
-- **English Empowerment Program** (EEP): Providing free weekly online English *empowering** lessons to Gazan teens since August 2025 over 28+ consecutive weeks
-- Conducted over 90+ research meetings with steering committee members and research volunteers from Finland, Indonesia, Japan, and the United Kingdom
+- **English Empowerment Program** (EEP): Providing free weekly online English *empowering** lessons to Gazan teens since August 2025 
+- Conducted over 90+ research meetings with steering committee members and research volunteers from Indonesia, Japan, and the United Kingdom
 - Contributed over 1000+ volunteer hours, leading to our first research article presented at [Muslims in ML Workshop at NeurIPS 2025](Muslims-in-ML-2025.md)
 - Learn more in our [visual briefs](https://tinyurl.com/SAIL-initiatives)
 
@@ -48,9 +48,11 @@ In parallel, we connect global advocates and researchers through **unfunded, com
 
 *Workshops to witness and experience global solidarity*
 
-- 2026: Please email us to propose a topic, time and date of our next workshop at ccw4gaza@gmail.com 
-- 2026: Feb 14 [Kullaj-Making Virtual Co-Cooking Workshop](2026Kullaj) 
 - 2025: June 21, 22, 28, 29 [virtual cocreation workshop](https://sail-initiatives.github.io/ccw/) 
+- 2026: Feb 14 [Kullaj-Making Virtual Co-Cooking Workshop](2026Kullaj) 
+- 2026: virtual art workshop - coming sooon
+
+Please email us to propose a topic, time and date of our next workshop at ccw4gaza@gmail.com
 
 ### Translation + image captioning + cultural preservation projects
 
