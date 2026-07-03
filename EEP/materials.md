@@ -40,6 +40,8 @@ Building this page for quick access to low-bandwidth teaching materials for volu
    
 2. Reading buddy: read along a picture book with teacher
  - [Folder](https://drive.google.com/drive/folders/12Fd4r3PEO4-DSm6xSK5L2Ti6h4GrM0Hv) contains Akansha's PDF book, etc.
+ - [Moon should not be compared to the sun](
+https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2eeshI)
 
  - https://www.letsreadasia.org/ 
 
@@ -88,8 +90,8 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 | | [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/) | |
 | | [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/) | |
 | Manually curated  |
-| 2026-06-26 | [tinyurl.com/nature4eep](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
-|   | [tinyurl.com/nature4eep](tinyurl.com/essentials) | - home (chores), play, work<br>- drawing, calligraphy, plotting, math<br>- Friendship, ... |
+| 2026-06-26 | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
+|   | [tinyurl.com/essentials](tinyurl.com/essentials) | - home (chores), play, work<br>- drawing, calligraphy, plotting, math<br>- Friendship, ... |
 |   | [tinyurl.com/nature4eep](tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
 
 
