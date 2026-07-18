@@ -86,25 +86,40 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 | :-- | :-- | :-- |
 | AI-generated | | (need to fix fonts) |
 | 2026-05-20 | [One Piece](https://docs.google.com/presentation/d/1b2Em1fyyCGbBUnSrmnxxjy999-ukkQZD) | - Perhaps for Learner 1 (Minecraft) + Learner 2 (Onepiece) |
-| | [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/) | |
-| | [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/) | |
-| | [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/) | |
 | Manually curated  |
-| 2026-06-26 | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
-|   | [tinyurl.com/essentials](tinyurl.com/essentials) | - home (chores), play, work<br>- drawing, calligraphy, plotting, math<br>- Friendship, ... |
-|   | [tinyurl.com/nature4eep](tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
 
 
-## Suggestions for future class:
+<br/>
+<br/>
+<br/>
 
-- [Spelling & writing for YA?](https://docs.google.com/presentation/d/1D0bk2ELmKQk5NEBXwHrBif8kZen5UWBm8ewFht9oiMQ/) 
+## Preparing for Cohort 3
+
+| Delivered? | Topic/ Link | Notes |
+| :-- | :-- | :-- |
+|  | [Simile + Oxymoron](https://tinyurl.com/oxymoron4eep-v) | |
+| M+H | Grammar | |
+|   | Everyday "Essential" English [tinyurl.com/essentials](tinyurl.com/essentials) | - home (chores), play, work<br>- drawing, calligraphy, plotting, math<br>- Friendship, ... |
+|  | [tinyurl.com/nature4eep](tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
+|  | [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/) | |
+|  | [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/) | |
+|  | [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/) | |
+|  | [Spelling & writing for YA?](https://docs.google.com/presentation/d/1D0bk2ELmKQk5NEBXwHrBif8kZen5UWBm8ewFht9oiMQ/) |
+| | Weather | | 
+| | Turkey | |
+| S+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
+| | [All about water](https://docs.google.com/presentation/d/1Ra4RkvqM4m1vYOZ0QsT-vXDVZX75c6ooCVfYiXNK3Vo/) | Planned for NZ |
+| ZN+J | [TikTok + Manga](https://docs.google.com/presentation/d/1wj17GRVR2TMR7P74-8sFuvgBq9-rdDxj48Pi-SQglOk/) | | 
+
+<br/>
+<br/>
+<br/>
 
 ## Under construction
  
 Compiled by hand (not completed):
 - [Cultural heritage - Part 1](https://docs.google.com/presentation/d/1CpyQ237cdTunXj2g-SCTpTBtelroqcqT8_5SWRfWEj8/)
-- [All about water](https://docs.google.com/presentation/d/1Ra4RkvqM4m1vYOZ0QsT-vXDVZX75c6ooCVfYiXNK3Vo/)
- 
+
 ## Emergency materials
 
 - [Phonic-reading for easy readers](https://docs.google.com/presentation/d/1eNr56a3zgy0YYRZ1lO5SkEmKwzVA9IGKrFkaNbkoRQE)
