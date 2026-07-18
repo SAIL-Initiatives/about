@@ -71,14 +71,17 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 
 ## Program for Cohort 2
 
+*(not always documented)*
+
 | Month |  Link | Highlights |
 | :-- | :-- | :-- |
 | 2026-04 | [link](https://docs.google.com/presentation/d/1FLJk9AWWTUXi1T7bmyzVOzi9D55zkGUn79XGkNf6-Nc/) | Self-introductions |
 |  | [link]() | Space 101 |
 | |  |
 | 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | - Fun grammar with Prita <br/> - Map of our latest virtual room <br/> - Health 101: Symptoms |
-| 05-23 | | [Floating city](https://docs.google.com/presentation/d/1XloQj7Vj_hcK-VoyZz9RCkndNaV6UNtFJw17lozGuhM/) - visual comparision & English: might vs. could vs may |
-| 06-06 | [tinyurl.com/math4EEP](tinyurl.com/math4EEP) ```Math 101``` |
+| 2026-05-23 | | [Floating city](https://docs.google.com/presentation/d/1XloQj7Vj_hcK-VoyZz9RCkndNaV6UNtFJw17lozGuhM/) - visual comparision & English: might vs. could vs may |
+| 2026-06-06 | [tinyurl.com/math4EEP](tinyurl.com/math4EEP) ```Math 101``` |
+| 2026-07-18 | [Msg for ZN](https://docs.google.com/presentation/d/1DFjQUyzybnOsqrphm47qniVeNGdXszA1zLYr2tkYT6Q) | | 2026-07-18 | Ladybug homework / chat with N + M + R |
 
 ## Preparing for Cohort 2
 
@@ -86,8 +89,7 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 | :-- | :-- | :-- |
 | AI-generated | | (need to fix fonts) |
 | 2026-05-20 | [One Piece](https://docs.google.com/presentation/d/1b2Em1fyyCGbBUnSrmnxxjy999-ukkQZD) | - Perhaps for Learner 1 (Minecraft) + Learner 2 (Onepiece) |
-| Manually curated  |
-
+| S+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
 
 <br/>
 <br/>
