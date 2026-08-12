@@ -7,8 +7,8 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 
 
 
-| Month | Type | Link |
-| :-- | :-- | :-- |
+| Month | Type | Link | Notes | 
+| :-- | :-- | :-- | :-- |
 |  Jan, Feb, Mar, May, Jul, Sep, Nov (9th of noted months AoE) | [ACM/ CHI](https://sigchi.org/resources/gary-marsden-travel-awards/) |
 | Jan | Conf travel | [Canadian Musculoskeletal travel grant](https://mskrehabnet.com/trainee-support-opportunities/)|
 | Feb | Conf travel |[Singapore: Vaccine and Immunotherapy Congress](https://www.apvic.org/travel-grants)
@@ -17,13 +17,13 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | Mar | Conf travel | [Singapore: International Association for Media and Communication Research](https://iamcr.org/singapore2025/travel-grant-application) |
 | Apr | Conf travel | [User Modeling Adaptation (UMAP)](https://www.um.org/umap2026/grants-and-support/)|
 | May | Conf travel |  Women in Machine Learning (WiML) |
-| June |  Conf travel | [Japan: Heart research](https://bcvr-ishr2026.mq-con.jp/travel_grant/) |
+| June |  Conf travel | [Japan: Heart research](https://bcvr-ishr2026.mq-con.jp/travel_grant/) | 2026 ✅️ |
 | July 1 | Grant proposals/ travel | [Int Studies Association ](https://www.isanet.org/programs/grants/workshop-grants) | 
 | July 20 | NeurIPS | [Affinity workshop travel](https://www.facebook.com/WiMLWorkshop/posts/-applications-open-neurips-2026-affinity-support-pilot-programwould-attending-ne/1558180519687926/) | 
 | August | Conf travel |  [AAAI-Sponsored “AIx” Pop-Up Events Worldwide](https://aaai.org/membership/aix-pop-up/) |
-| August |  Conf travel | [Montreal: Symposium on Model Accountability, Sustainability and Healthcare](https://smashcon.org/en/) |
+| August |  Conf travel | [Montreal: Symposium on Model Accountability, Sustainability and Healthcare](https://smashcon.org/en/) | 2025 ✅️ |
 | Oct |  Conf travel | [AI for Humanity](https://aaai.org/about-aaai/aaai-awards/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity-call/) |
-| Nov |  Conf travel | WiML |
+| Nov |  Conf travel | WiML | 2025 ✅️ |
 | Nov |  Conf travel | [AAAI Student Scholar Volunteer Program](https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/)|
 
 
