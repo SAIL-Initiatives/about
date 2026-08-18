@@ -5,10 +5,12 @@
 # Volunteers' Resource Hub & Learning Commons
 
 Building this page for quick access to low-bandwidth teaching materials for volunteer educators and learners. 
+<br/>
+<br/>
+<br/>
 
 <details> 
 <summary>Getting to know your first learner [Click me]</summary> 
-
 
 - Tips for new volunteers: [slide deck coming soon](https://docs.google.com/presentation/d/1tRKUrDOY1y0P8orA-6wGKn4S93SbviQdus2DvSpqd3Y/)
 
@@ -31,6 +33,9 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 
 </details>
 
+<br/>
+<br/>
+<br/>
 
 <details>
 
@@ -52,10 +57,14 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 4. Project-mentorships: e.g. proofreading resumes, applications 
 
 </details>
-  
+
+<br/>
+<br/>
+<br/>
+
 <details>
  
-<summary>Program for Cohort 1</summary>
+<summary>Program for Cohort 1 [Click me]</summary>
 
 - [Asmaa and Norway](https://docs.google.com/presentation/d/1s95rMw8HsHEQc7DcieCQZChl-WLnoFwAAft6z0ylb1I/)
 - [Ali and Qatar](https://docs.google.com/presentation/d/1n6hyrdMyFfs15xZ9UmFt_2TNRrKnHpJXPZ-XILoCvbM/)
@@ -72,9 +81,13 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 - Emotion
 </details>
 
+<br/>
+<br/>
+<br/>
+
 <details>
  
-<summary>New materials compiled for Cohort 2</summary>
+<summary>New materials compiled for Cohort 2 [Click me]</summary>
 
 *(not always documented)*
 
@@ -92,14 +105,15 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 | S+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
 
 
-
 </details>
+
 <br/>
 <br/>
 <br/>
+
 <details>
  
-<summary>Materials that can be used for Cohort 31</summary>
+<summary>Materials that can be used for Cohort 3 [Click me]</summary>
 
 | Which learners seen? | Topic/ Link | Notes |
 | :-- | :-- | :-- |
@@ -131,7 +145,9 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 </details>
 
 
-
+<br/>
+<br/>
+<br/>
  
 ## Under construction
  
