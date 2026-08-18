@@ -89,15 +89,15 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 
 *(not always documented)*
 
-| Month |  Link | Highlights |
+| Date or Which learners seen? | Topic/ Link | Notes |
 | :-- | :-- | :-- |
 | 2026-04 | [link](https://docs.google.com/presentation/d/1FLJk9AWWTUXi1T7bmyzVOzi9D55zkGUn79XGkNf6-Nc/) | Self-introductions |
-|  | [link]() | Space 101 |
+|  | [link](https://docs.google.com/presentation/d/1YjVXhZIxqW63zvPRlfrxjISnyaMRHNfXPszVa21lFL4) | Space 101 |
 | |  |
 | 2026-05 | [mixed](https://docs.google.com/presentation/d/1tDeNb7pdYdUfnQURZFP_EyAoxcd9eSpj_OKdRSRFrWQ/edit?usp=drive_web&ouid=101879712991498996519) | - Fun grammar with Prita <br/> - Map of our latest virtual room <br/> - Health 101: Symptoms |
-| 2026-05-23 | | [Floating city](https://docs.google.com/presentation/d/1XloQj7Vj_hcK-VoyZz9RCkndNaV6UNtFJw17lozGuhM/) - visual comparision & English: might vs. could vs may |
+| 2026-05-23 | | [Floating city](https://docs.google.com/presentation/d/1XloQj7Vj_hcK-VoyZz9RCkndNaV6UNtFJw17lozGuhM/) - visual comparison & English: might vs. could vs may |
 | 2026-06-06 | [tinyurl.com/math4EEP](tinyurl.com/math4EEP) ```Math 101``` |
-| 2026-07-18 | [Msg for ZN](https://docs.google.com/presentation/d/1DFjQUyzybnOsqrphm47qniVeNGdXszA1zLYr2tkYT6Q) | | 2026-07-18 | Ladybug homework / chat with N + M + R |
+| 2026-07-18 | [Msg for ZZ](https://docs.google.com/presentation/d/1DFjQUyzybnOsqrphm47qniVeNGdXszA1zLYr2tkYT6Q) | | 2026-07-18 | Ladybug homework / chat with N + M + R |
 | AI-generated | | (need to fix fonts) |
 | 2026-05-20 | [One Piece](https://docs.google.com/presentation/d/1b2Em1fyyCGbBUnSrmnxxjy999-ukkQZD) | - Perhaps for Learner 1 (Minecraft) + Learner 2 (Onepiece) |
 | S+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
@@ -114,22 +114,24 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 
 | Which learners seen? | Topic/ Link | Notes |
 | :-- | :-- | :-- |
+| Jobs |
 |  | [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/) | |
 |  | [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/) | |
 |  | [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/) | |
-| | |
+| Nature |
 |  | [tinyurl.com/nature4eep](https://tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
-| | |
+| Travel | 
+| SK+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
+| Writing |
 |  | [Simile + Oxymoron](https://tinyurl.com/oxymoron4eep-v) | |
 |  | [Spelling & writing for YA?](https://docs.google.com/presentation/d/1D0bk2ELmKQk5NEBXwHrBif8kZen5UWBm8ewFht9oiMQ/) |
-| | |
+| Everyday essentials |
 | ZN+J | [scripts on chores,TikTok,Manga](https://docs.google.com/presentation/d/1wj17GRVR2TMR7P74-8sFuvgBq9-rdDxj48Pi-SQglOk/) | | 
 |   | Everyday "Essential" English [tinyurl.com/essentials](tinyurl.com/essentials) | - home (chores), play, work<br>- drawing, calligraphy, plotting, math<br>- Friendship, ... |
 | | [Weather by Prita](https://docs.google.com/presentation/d/1pDbGszedhwaPwHWI6rj0PEZg9YWyTQ32vUVIbJW7LNU) | | 
 | | [All about water](https://docs.google.com/presentation/d/1Ra4RkvqM4m1vYOZ0QsT-vXDVZX75c6ooCVfYiXNK3Vo/) | Planned for NZ |
-| | |
+| Drawing & art |
 | SK+JZ | [https://tinyurl.com/draw4eep](https://tinyurl.com/draw4eep) |
-| SK+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
 | MA+HA | Lila's [go-went-gone materials](https://docs.google.com/presentation/d/1W8ZY5PrAc87_5axJ6N_t_nErad9tst0enOThQWNdxOY)
 | RN | [Let's talk shapes](https://docs.google.com/presentation/d/1orVFN9ua5gRw8wybi_tHRKTa-hH9rxvuw_g37j6UK8M) |
 <br/>
