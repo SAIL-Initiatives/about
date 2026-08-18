@@ -6,9 +6,8 @@
 
 Building this page for quick access to low-bandwidth teaching materials for volunteer educators and learners. 
 <br/>
-<br/>
-<br/>
-
+ 
+ 
 <details> 
 <summary>Getting to know your first learner [Click me]</summary> 
 
@@ -35,6 +34,7 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 
 <br/>
 
+---
 
 <details>
 
@@ -59,6 +59,7 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 
 <br/>
 
+---
 
 <details>
  
@@ -142,7 +143,10 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 <br/>
 <br/>
 <br/>
- 
+
+---
+
+
 ## Under construction
  
 Compiled by hand (not completed):
@@ -152,7 +156,9 @@ Compiled by hand (not completed):
 
 - [Phonic-reading for easy readers](https://docs.google.com/presentation/d/1eNr56a3zgy0YYRZ1lO5SkEmKwzVA9IGKrFkaNbkoRQE)
 - [What is "pen pal"?](https://docs.google.com/presentation/d/1GU-nvbI3roS4tBc0xHyTlZgY0qljjTUNrqCTheJ8Ozs) ***please do not circulate; sensitive content***
+
 <br/>
+---
  
 # Design Principles ❤️ 
 
@@ -172,13 +178,13 @@ Content - keep materials:
 - Don't worry too much about margins
 - ***Readability/ accessbility over aesthetics***
 
-<br/>
+
 ## 2. Huge font size: no smaller than 40 points
 
 Be careful with maps too!
 - e.g. a city that is barely visible on your laptop screen will be unlikely readable on learner's mobile screen. 
 
-<br/>  
+
 
 ## 3. Integrate Teachers' notes directly on the slide
 
