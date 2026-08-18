@@ -53,7 +53,9 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 
 </details>
   
-## Program for Cohort 1 
+<details>
+ 
+<summary>Program for Cohort 1</summary>
 
 - [Asmaa and Norway](https://docs.google.com/presentation/d/1s95rMw8HsHEQc7DcieCQZChl-WLnoFwAAft6z0ylb1I/)
 - [Ali and Qatar](https://docs.google.com/presentation/d/1n6hyrdMyFfs15xZ9UmFt_2TNRrKnHpJXPZ-XILoCvbM/)
@@ -68,8 +70,11 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 - [Religious celebrations](https://docs.google.com/presentation/d/1COZxnc8WJVVCtfdMxFdqZ4eV7luyMBy2_I-N4_jr2Yo)
 - Dreams & Aspirations
 - Emotion
+</details>
 
-## Program for Cohort 2
+<details>
+ 
+<summary>New materials compiled for Cohort 2</summary>
 
 *(not always documented)*
 
@@ -82,22 +87,21 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 | 2026-05-23 | | [Floating city](https://docs.google.com/presentation/d/1XloQj7Vj_hcK-VoyZz9RCkndNaV6UNtFJw17lozGuhM/) - visual comparision & English: might vs. could vs may |
 | 2026-06-06 | [tinyurl.com/math4EEP](tinyurl.com/math4EEP) ```Math 101``` |
 | 2026-07-18 | [Msg for ZN](https://docs.google.com/presentation/d/1DFjQUyzybnOsqrphm47qniVeNGdXszA1zLYr2tkYT6Q) | | 2026-07-18 | Ladybug homework / chat with N + M + R |
-
-## Preparing for Cohort 2
-
-| Time of creation |  Link | Notes |
-| :-- | :-- | :-- |
 | AI-generated | | (need to fix fonts) |
 | 2026-05-20 | [One Piece](https://docs.google.com/presentation/d/1b2Em1fyyCGbBUnSrmnxxjy999-ukkQZD) | - Perhaps for Learner 1 (Minecraft) + Learner 2 (Onepiece) |
 | S+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
 
-<br/>
-<br/>
-<br/>
 
-## Preparing for Cohort 3
 
-| Delivered? | Topic/ Link | Notes |
+</details>
+<br/>
+<br/>
+<br/>
+<details>
+ 
+<summary>Materials that can be used for Cohort 31</summary>
+
+| Which learners seen? | Topic/ Link | Notes |
 | :-- | :-- | :-- |
 |  | [Simile + Oxymoron](https://tinyurl.com/oxymoron4eep-v) | |
 | M+H | Grammar | |
@@ -117,6 +121,15 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 <br/>
 <br/>
 
+### Prita's series
+
+| Which learners seen? | Topic/ Link | Notes |
+| :-- | :-- | :-- |
+| NZ | [5W + 1H](https://docs.google.com/presentation/d/13WoWn0BuWilW3xkpQMr09-PO5y13yYvQvchHQT-dLuI/edit?usp=sharing) |
+| NZ | [5W + 1H](https://docs.google.com/presentation/d/13WoWn0BuWilW3xkpQMr09-PO5y13yYvQvchHQT-dLuI/edit?usp=sharing) |
+| NZ | [5W + 1H](https://docs.google.com/presentation/d/13WoWn0BuWilW3xkpQMr09-PO5y13yYvQvchHQT-dLuI/edit?usp=sharing) |
+</details>
+
 ## Under construction
  
 Compiled by hand (not completed):
@@ -127,7 +140,7 @@ Compiled by hand (not completed):
 - [Phonic-reading for easy readers](https://docs.google.com/presentation/d/1eNr56a3zgy0YYRZ1lO5SkEmKwzVA9IGKrFkaNbkoRQE)
 - [What is "pen pal"?](https://docs.google.com/presentation/d/1GU-nvbI3roS4tBc0xHyTlZgY0qljjTUNrqCTheJ8Ozs) ***please do not circulate; sensitive content***
  
-# ❤️ Principles
+# Design Principles ❤️ 
 
 Content - keep materials:
 - simple
@@ -165,7 +178,9 @@ Rationale: teachers can quickly guide the lesson without juggling the presentati
 
 Examples:
 > Teacher: Ask learner follow-up questions here
+
 > Teacher: Skip activity if internet is unstable
+
 > Teacher: Allow Arabic discussion first if needed
 
 ---
