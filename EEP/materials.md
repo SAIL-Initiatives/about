@@ -124,10 +124,11 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 |  | [Spelling & writing for YA?](https://docs.google.com/presentation/d/1D0bk2ELmKQk5NEBXwHrBif8kZen5UWBm8ewFht9oiMQ/) |
 | | Weather | | 
 | | Turkey | |
-| S+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
+| SK+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
 | | [All about water](https://docs.google.com/presentation/d/1Ra4RkvqM4m1vYOZ0QsT-vXDVZX75c6ooCVfYiXNK3Vo/) | Planned for NZ |
 | ZN+J | [TikTok + Manga](https://docs.google.com/presentation/d/1wj17GRVR2TMR7P74-8sFuvgBq9-rdDxj48Pi-SQglOk/) | | 
-
+| SK+JZ | [https://tinyurl.com/draw4eep](https://tinyurl.com/draw4eep) |
+| RN | [Let's talk shapes](https://docs.google.com/presentation/d/1orVFN9ua5gRw8wybi_tHRKTa-hH9rxvuw_g37j6UK8M) |
 <br/>
 
 ### Prita's series
