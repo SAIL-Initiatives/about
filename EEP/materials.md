@@ -118,7 +118,7 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 |  | [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/) | |
 |  | [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/) | |
 | | |
-|  | [tinyurl.com/nature4eep](tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
+|  | [tinyurl.com/nature4eep](https://tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
 | | |
 |  | [Simile + Oxymoron](https://tinyurl.com/oxymoron4eep-v) | |
 |  | [Spelling & writing for YA?](https://docs.google.com/presentation/d/1D0bk2ELmKQk5NEBXwHrBif8kZen5UWBm8ewFht9oiMQ/) |
