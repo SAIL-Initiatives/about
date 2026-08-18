@@ -34,8 +34,7 @@ Building this page for quick access to low-bandwidth teaching materials for volu
 </details>
 
 <br/>
-<br/>
-<br/>
+
 
 <details>
 
@@ -59,8 +58,7 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 </details>
 
 <br/>
-<br/>
-<br/>
+
 
 <details>
  
@@ -82,8 +80,7 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 </details>
 
 <br/>
-<br/>
-<br/>
+
 
 <details>
  
@@ -108,8 +105,7 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 </details>
 
 <br/>
-<br/>
-<br/>
+
 
 <details>
  
@@ -131,8 +127,6 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 | | [All about water](https://docs.google.com/presentation/d/1Ra4RkvqM4m1vYOZ0QsT-vXDVZX75c6ooCVfYiXNK3Vo/) | Planned for NZ |
 | ZN+J | [TikTok + Manga](https://docs.google.com/presentation/d/1wj17GRVR2TMR7P74-8sFuvgBq9-rdDxj48Pi-SQglOk/) | | 
 
-<br/>
-<br/>
 <br/>
 
 ### Prita's series
