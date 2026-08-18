@@ -125,11 +125,14 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 
 | Which learners seen? | Topic/ Link | Notes |
 | :-- | :-- | :-- |
-| NZ | [5W + 1H](https://docs.google.com/presentation/d/13WoWn0BuWilW3xkpQMr09-PO5y13yYvQvchHQT-dLuI/edit?usp=sharing) |
-| NZ | [5W + 1H](https://docs.google.com/presentation/d/13WoWn0BuWilW3xkpQMr09-PO5y13yYvQvchHQT-dLuI/edit?usp=sharing) |
-| NZ | [5W + 1H](https://docs.google.com/presentation/d/13WoWn0BuWilW3xkpQMr09-PO5y13yYvQvchHQT-dLuI/edit?usp=sharing) |
+| NZ | [5W + 1H](https://docs.google.com/presentation/d/13WoWn0BuWilW3xkpQMr09-PO5y13yYvQvchHQT-dLuI/) |
+| NZ | [preprosition](https://docs.google.com/presentation/d/1rQhFNDRbWrSUFcb_UnpqzEVQFCaAyptkaklmaNIb7Kc/) |
+| NZ | [that,this,these,those](https://docs.google.com/presentation/d/1gpBLAUWSzsTpj49zs4WcnHqe1fwR5sldHPVImId-wzo) |
 </details>
 
+
+
+ 
 ## Under construction
  
 Compiled by hand (not completed):
