@@ -152,6 +152,7 @@ Compiled by hand (not completed):
 
 - [Phonic-reading for easy readers](https://docs.google.com/presentation/d/1eNr56a3zgy0YYRZ1lO5SkEmKwzVA9IGKrFkaNbkoRQE)
 - [What is "pen pal"?](https://docs.google.com/presentation/d/1GU-nvbI3roS4tBc0xHyTlZgY0qljjTUNrqCTheJ8Ozs) ***please do not circulate; sensitive content***
+<br/>
  
 # Design Principles ❤️ 
 
@@ -161,6 +162,7 @@ Content - keep materials:
 - mobile-friendly
 - low-bandwidth
 
+<br/>
 <details>
 
 <summary>Click here to see more notes for slide designers</summary>
@@ -177,6 +179,7 @@ Be careful with maps too!
 - e.g. a city that is barely visible on your laptop screen will be unlikely readable on learner's mobile screen. 
 
 <br/>  
+
 ## 3. Integrate Teachers' notes directly on the slide
 
 To reduce volunteer stress and preparation time:
