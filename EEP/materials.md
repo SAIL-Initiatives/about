@@ -114,20 +114,23 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 
 | Which learners seen? | Topic/ Link | Notes |
 | :-- | :-- | :-- |
-|  | [Simile + Oxymoron](https://tinyurl.com/oxymoron4eep-v) | |
-| M+H | Grammar | |
-|   | Everyday "Essential" English [tinyurl.com/essentials](tinyurl.com/essentials) | - home (chores), play, work<br>- drawing, calligraphy, plotting, math<br>- Friendship, ... |
-|  | [tinyurl.com/nature4eep](tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
 |  | [Let's talk cooking](https://docs.google.com/presentation/d/1Hv3x2RG9UY4FOGo71U7FzOfnj1wYXmZp2bOSjb9Yd3E/) | |
 |  | [Chefs and Patissiers](https://docs.google.com/presentation/d/1FlEjj67cKxQVTENUlIo7lL3EE27LFo4MGuUfMXXByCk/) | |
 |  | [Beauty and Medicine](https://docs.google.com/presentation/d/1n-WEqF9belh7qj12iEXGlEqD4wAq2r77K1bRdBpH3cs/) | |
+| | |
+|  | [tinyurl.com/nature4eep](tinyurl.com/nature4eep)  | - Let's draw nature (draw together) |
+| | |
+|  | [Simile + Oxymoron](https://tinyurl.com/oxymoron4eep-v) | |
 |  | [Spelling & writing for YA?](https://docs.google.com/presentation/d/1D0bk2ELmKQk5NEBXwHrBif8kZen5UWBm8ewFht9oiMQ/) |
-| | Weather | | 
-| | Turkey | |
-| SK+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
+| | |
+| ZN+J | [scripts on chores,TikTok,Manga](https://docs.google.com/presentation/d/1wj17GRVR2TMR7P74-8sFuvgBq9-rdDxj48Pi-SQglOk/) | | 
+|   | Everyday "Essential" English [tinyurl.com/essentials](tinyurl.com/essentials) | - home (chores), play, work<br>- drawing, calligraphy, plotting, math<br>- Friendship, ... |
+| | [Weather by Prita](https://docs.google.com/presentation/d/1pDbGszedhwaPwHWI6rj0PEZg9YWyTQ32vUVIbJW7LNU) | | 
 | | [All about water](https://docs.google.com/presentation/d/1Ra4RkvqM4m1vYOZ0QsT-vXDVZX75c6ooCVfYiXNK3Vo/) | Planned for NZ |
-| ZN+J | [TikTok + Manga](https://docs.google.com/presentation/d/1wj17GRVR2TMR7P74-8sFuvgBq9-rdDxj48Pi-SQglOk/) | | 
+| | |
 | SK+JZ | [https://tinyurl.com/draw4eep](https://tinyurl.com/draw4eep) |
+| SK+JZ | [tinyurl.com/swiss-japan-1](tinyurl.com/swiss-japan-1) | - Designed for Learner 1 (Japan) + Learner 2 (Swiss) |
+| MA+HA | Lila's [go-went-gone materials](https://docs.google.com/presentation/d/1W8ZY5PrAc87_5axJ6N_t_nErad9tst0enOThQWNdxOY)
 | RN | [Let's talk shapes](https://docs.google.com/presentation/d/1orVFN9ua5gRw8wybi_tHRKTa-hH9rxvuw_g37j6UK8M) |
 <br/>
 
@@ -138,6 +141,9 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 | NZ | [5W + 1H](https://docs.google.com/presentation/d/13WoWn0BuWilW3xkpQMr09-PO5y13yYvQvchHQT-dLuI/) |
 | NZ | [preprosition](https://docs.google.com/presentation/d/1rQhFNDRbWrSUFcb_UnpqzEVQFCaAyptkaklmaNIb7Kc/) |
 | NZ | [that,this,these,those](https://docs.google.com/presentation/d/1gpBLAUWSzsTpj49zs4WcnHqe1fwR5sldHPVImId-wzo) |
+
+
+
 </details>
 
 
