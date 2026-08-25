@@ -28,6 +28,9 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | Nov |  Conf travel | [AAAI Student Scholar Volunteer Program](https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/)|
 
 
+[Canadian institutions that may be relevant](https://nserc-crsng.canada.ca/en/funding/eligibility/list-eligible-institutions)
+
+
 [Learn about the English Empowerment Program here](https://sail-initiatives.github.io/about/EEP/)
 
 <br/>
