@@ -20,9 +20,11 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | June |  Conf travel | [Japan: Heart research](https://bcvr-ishr2026.mq-con.jp/travel_grant/) | 2026 ✅️ |
 | July 1 | Grant proposals/ travel | [Int Studies Association ](https://www.isanet.org/programs/grants/workshop-grants) | 
 | July 20 | NeurIPS | [Affinity workshop travel](https://www.facebook.com/WiMLWorkshop/posts/-applications-open-neurips-2026-affinity-support-pilot-programwould-attending-ne/1558180519687926/) | 
+
 | August | Conf travel |  [AAAI-Sponsored “AIx” Pop-Up Events Worldwide](https://aaai.org/membership/aix-pop-up/) |
 | Aug 31 |  Conf travel | [Montreal: Symposium on Model Accountability, Sustainability and Healthcare](https://smashcon.org/en/) | 2025 ✅️ |
 | Aug 31 | Grant proposal | https://europeanaifund.org/building-narrative-power-funding-and-learning-programme/ |
+| Aug 31 | Conf travel for MSK | [Musculoskeletal (MSK) Rehabilitation Research Network](https://mskrehabnet.com/trainee-support-opportunities/) | |
 | Oct |  Conf travel | [AI for Humanity](https://aaai.org/about-aaai/aaai-awards/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity-call/) |
 | Nov |  Conf travel | WiML | 2025 ✅️ |
 | Nov |  Conf travel | [AAAI Student Scholar Volunteer Program](https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/)|
