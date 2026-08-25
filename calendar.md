@@ -19,8 +19,7 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | May | Conf travel |  Women in Machine Learning (WiML) |
 | June |  Conf travel | [Japan: Heart research](https://bcvr-ishr2026.mq-con.jp/travel_grant/) | 2026 ✅️ |
 | July 1 | Grant proposals/ travel | [Int Studies Association ](https://www.isanet.org/programs/grants/workshop-grants) | 
-| July 20 | NeurIPS | [Affinity workshop travel](https://www.facebook.com/WiMLWorkshop/posts/-applications-open-neurips-2026-affinity-support-pilot-programwould-attending-ne/1558180519687926/) | 
-
+| July 20 | NeurIPS | [Affinity workshop travel](https://www.facebook.com/WiMLWorkshop/posts/-applications-open-neurips-2026-affinity-support-pilot-programwould-attending-ne/1558180519687926/) | |
 | August | Conf travel |  [AAAI-Sponsored “AIx” Pop-Up Events Worldwide](https://aaai.org/membership/aix-pop-up/) |
 | Aug 31 |  Conf travel | [Montreal: Symposium on Model Accountability, Sustainability and Healthcare](https://smashcon.org/en/) | 2025 ✅️ |
 | Aug 31 | Grant proposal | https://europeanaifund.org/building-narrative-power-funding-and-learning-programme/ |
