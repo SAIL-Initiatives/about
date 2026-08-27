@@ -22,7 +22,7 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | July 1 | Grant proposals/ travel | [Int Studies Association ](https://www.isanet.org/programs/grants/workshop-grants) | 
 | July 20 | NeurIPS | [Affinity workshop travel](https://www.facebook.com/WiMLWorkshop/posts/-applications-open-neurips-2026-affinity-support-pilot-programwould-attending-ne/1558180519687926/) | |
 | August | Travel support for accepted submissions  |  [AAAI-Sponsored “AIx” Pop-Up Events Worldwide](https://aaai.org/membership/aix-pop-up/) |
-| Aug 17 | Grant | [AI Alignment Foundation Research Fellowship](https://www.aialignmentfoundation.org/fellowship) | |
+| Aug 17 | $12,000 USD stipend over 8 weeks | [AI Alignment Foundation Research Fellowship](https://www.aialignmentfoundation.org/fellowship) | |
 | Aug 31 |  Travel support for accepted submissions  | [Montreal: Symposium on Model Accountability, Sustainability and Healthcare](https://smashcon.org/en/) | 2025 ✅️ |
 | Aug 31 | Grant proposal | https://europeanaifund.org/building-narrative-power-funding-and-learning-programme/ |
 | Aug 31 | Travel support for accepted submissions  for MSK | [2nd round of Canadian Musculoskeletal (MSK) travel grant](https://mskrehabnet.com/trainee-support-opportunities/) | |
