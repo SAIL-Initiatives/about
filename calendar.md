@@ -6,7 +6,6 @@
 List of *upcoming & (projections of future) deadlines* for scholarships, internships, grants, etc.
 
 
-
 | Month | Type | Link | Notes | 
 | :-- | :-- | :-- | :-- |
 |  Jan, Feb, Mar, May, Jul, Sep, Nov (9th of noted months AoE) | [ACM/ CHI](https://sigchi.org/resources/gary-marsden-travel-awards/) |
@@ -18,6 +17,8 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | Apr 13 | Travel support for accepted submissions | [Women in Computer Vision]( https://sites.google.com/view/wicv-cvpr-2026/) | |
 | Apr | Travel support for accepted submissions  | [User Modeling Adaptation (UMAP)](https://www.um.org/umap2026/grants-and-support/)|
 | May | Travel support for accepted submissions  |  Women in Machine Learning (WiML) |
+| May | Grants for biologists [Info](https://www.biologists.com/grants/news/) [Apply link](https://cob.smartsimpleuk.com/s_Login.jsp?lang=1&prole=0)||
+| May 24 | Travel grant | [Canadian](https://cfdcanada.ca/awards/travel-grants/) | |
 | June |  Travel support for accepted submissions  | [Japan: Heart research](https://bcvr-ishr2026.mq-con.jp/travel_grant/) | 2026 ✅️ |
 | July 1 | Grant proposals/ travel | [Int Studies Association ](https://www.isanet.org/programs/grants/workshop-grants) | 
 | July 20 | NeurIPS | [Affinity workshop travel](https://www.facebook.com/WiMLWorkshop/posts/-applications-open-neurips-2026-affinity-support-pilot-programwould-attending-ne/1558180519687926/) | |
@@ -39,4 +40,4 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 <br/>
 <br/>
 
-<a href="https://info.flagcounter.com/OXLU"><img src="https://s01.flagcounter.com/count2/OXLU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/OXLU"><img src="https://s01.flagcounter.com/count2/OXLU/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" width="200" border="0"></a>
