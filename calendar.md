@@ -28,6 +28,7 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | Aug 31 | Grant proposal | https://europeanaifund.org/building-narrative-power-funding-and-learning-programme/ |
 | Aug 31 | Travel support for accepted submissions  for MSK | [2nd round of Canadian Musculoskeletal (MSK) travel grant](https://mskrehabnet.com/trainee-support-opportunities/) | |
 | Oct |  Travel support for accepted submissions  | [AI for Humanity](https://aaai.org/about-aaai/aaai-awards/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity-call/) |
+| Oct 28 | Travel support for accepted submissions  [Neurologists or neurology residents](https://www.neurology-jp.org/neuro2027/en/abstract/travel_grants.html) | |
 | Nov |  Travel support for accepted submissions  | WiML | 2025 ✅️ |
 | Nov |  Travel support for accepted submissions  | [AAAI Student Scholar Volunteer Program](https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/)|
 
