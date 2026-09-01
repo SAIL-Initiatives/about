@@ -15,7 +15,7 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | Mar | Grant proposals| [Transition2scale](https://being-initiative.org/news/request-for-proposals-for-transition-to-scale-innovations/)
 | Mar | Travel support for accepted submissions  | [Singapore: International Association for Media and Communication Research](https://iamcr.org/singapore2025/travel-grant-application) |
 | Apr 13 | Travel support for accepted submissions | [Women in Computer Vision]( https://sites.google.com/view/wicv-cvpr-2026/) | |
-| Apr 16 | [Mila's AI4Humanity fellowship](https://mila.quebec/en/ai4humanity/ai-governance-policy-and-inclusion/mila-ai-policy-fellowship)| |
+| Apr 16 | Fellowship |  [Mila's AI4Humanity](https://mila.quebec/en/ai4humanity/ai-governance-policy-and-inclusion/mila-ai-policy-fellowship)| |
 | Apr | Travel support for accepted submissions  | [User Modeling Adaptation (UMAP)](https://www.um.org/umap2026/grants-and-support/)|
 | May | Travel support for accepted submissions  |  Women in Machine Learning (WiML) |
 | May | Grants for biologists [Info](https://www.biologists.com/grants/news/) [Apply link](https://cob.smartsimpleuk.com/s_Login.jsp?lang=1&prole=0)||
