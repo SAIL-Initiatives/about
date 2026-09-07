@@ -12,6 +12,7 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | Jan | Travel support for accepted submissions  | [Canadian Musculoskeletal travel grant](https://mskrehabnet.com/trainee-support-opportunities/)|
 | Feb | Travel support for accepted submissions  |[Singapore: Vaccine and Immunotherapy Congress](https://www.apvic.org/travel-grants)
 | Mar | Travel support for accepted submissions  | [Mozilla Foundation’s Democracy x AI Incubator](https://www.mozillafoundation.org/en/what-we-do/grantmaking/incubator/democracy-ai-cohort/?utm_medium=social&utm_source=linkedin&utm_campaign=26-ai-democracy&utm_content=link_promo&utm_term=en)|
+| Mar 20 | [Int. Conf. on Sustainability Transitions 2025](https://www.transitionsnetwork.org/ist-2025/travel-support/) | |
 | Mar | Grant proposals| [Transition2scale](https://being-initiative.org/news/request-for-proposals-for-transition-to-scale-innovations/)
 | Mar | Travel support for accepted submissions  | [Singapore: International Association for Media and Communication Research](https://iamcr.org/singapore2025/travel-grant-application) |
 | Apr 13 | Travel support for accepted submissions | [Women in Computer Vision]( https://sites.google.com/view/wicv-cvpr-2026/) | |
@@ -29,8 +30,10 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | Aug 31 |  Travel support for accepted submissions  | [Montreal: Symposium on Model Accountability, Sustainability and Healthcare](https://smashcon.org/en/) | 2025 ✅️ |
 | Aug 31 | Grant proposal | https://europeanaifund.org/building-narrative-power-funding-and-learning-programme/ |
 | Aug 31 | Travel support for accepted submissions  for MSK | [2nd round of Canadian Musculoskeletal (MSK) travel grant](https://mskrehabnet.com/trainee-support-opportunities/) | |
-| Oct 9 | Citadel| [NeurIPS 2026](https://www.citadel.com/careers/programs-and-events/conference-travel-grant/apply-for-the-neurips-grant/)|
-| Oct |  Travel support for accepted submissions  | [AAAI for Humanity](https://aaai.org/about-aaai/aaai-awards/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity-call/) |
+| Oct 9 | Travel support for presenting at NeurIPS 2026 | [Citadel](https://www.citadel.com/careers/programs-and-events/conference-travel-grant/apply-for-the-neurips-grant/)|
+| Oct  |  Travel support for accepted submissions  | [AAAI for Humanity](https://aaai.org/about-aaai/aaai-awards/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity-call/) |
+| Oct 15 | [ACM Women](women.acm.org/scholarships) |
+| Oct 16 | https://conf.researchr.org/track/chase-2027/chase-2027-papers||
 | Oct 28 | Travel support for accepted submissions | [Neurology Japan](https://www.neurology-jp.org/neuro2027/en/abstract/travel_grants.html) Support letter is needed | |
 | Nov |  Travel support for accepted submissions  | WiML | 2025 ✅️ |
 | Nov |  Travel support for accepted submissions  | [AAAI Student Scholar Volunteer Program](https://aaai.org/conference/aaai/aaai-26/student-scholar-volunteer-program/)|
