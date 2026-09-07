@@ -32,7 +32,7 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | Aug 31 | Travel support for accepted submissions  for MSK | [2nd round of Canadian Musculoskeletal (MSK) travel grant](https://mskrehabnet.com/trainee-support-opportunities/) | |
 | Oct 9 | Travel support for presenting at NeurIPS 2026 | [Citadel](https://www.citadel.com/careers/programs-and-events/conference-travel-grant/apply-for-the-neurips-grant/)|
 | Oct  |  Travel support for accepted submissions  | [AAAI for Humanity](https://aaai.org/about-aaai/aaai-awards/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity/aaai-award-for-artificial-intelligence-for-the-benefit-of-humanity-call/) |
-| Oct 15 | [ACM Women](women.acm.org/scholarships) |
+| Oct 15 | [ACM Women](https://women.acm.org/scholarships) | Requires support letter from school's department |
 | Oct 16 | https://conf.researchr.org/track/chase-2027/chase-2027-papers||
 | Oct 28 | Travel support for accepted submissions | [Neurology Japan](https://www.neurology-jp.org/neuro2027/en/abstract/travel_grants.html) Support letter is needed | |
 | Nov |  Travel support for accepted submissions  | WiML | 2025 ✅️ |
