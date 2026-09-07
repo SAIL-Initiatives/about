@@ -6,7 +6,7 @@
 List of *upcoming & (projections of future) deadlines* for scholarships, internships, grants, etc.
 
 
-| Month | Type | Link | Notes | 
+| Month | Type | Link | Verified? | 
 | :-- | :-- | :-- | :-- |
 | Jan, Feb, Mar, May, Jul, Sep, Nov (9th of noted months AoE) | [ACM/ CHI](https://sigchi.org/resources/gary-marsden-travel-awards/) |
 | Jan | Travel support for accepted submissions  | [Canadian Musculoskeletal travel grant](https://mskrehabnet.com/trainee-support-opportunities/)|
