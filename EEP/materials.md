@@ -134,6 +134,7 @@ https://docs.google.com/presentation/d/1ZIw9t3QYfTeGWVCOkcEpf-m2JrHpSljTepXLY2ee
 | SK+JZ | [https://tinyurl.com/draw4eep](https://tinyurl.com/draw4eep) |
 | MA+HA | Lila's [go-went-gone materials](https://docs.google.com/presentation/d/1W8ZY5PrAc87_5axJ6N_t_nErad9tst0enOThQWNdxOY)
 | RN | [Let's talk shapes](https://docs.google.com/presentation/d/1orVFN9ua5gRw8wybi_tHRKTa-hH9rxvuw_g37j6UK8M) |
+| A | [Friends](https://tinyurl.com/friends4eep) |
 <br/>
 
 ### Prita's series
