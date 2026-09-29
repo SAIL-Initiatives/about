@@ -21,11 +21,12 @@ List of *upcoming & (projections of future) deadlines* for scholarships, interns
 | Apr | Travel support for accepted submissions  | [User Modeling Adaptation (UMAP)](https://www.um.org/umap2026/grants-and-support/)|
 | May | Travel support for accepted submissions  |  Women in Machine Learning (WiML) |
 | May | Grants for biologists [Info](https://www.biologists.com/grants/news/) [Apply link](https://cob.smartsimpleuk.com/s_Login.jsp?lang=1&prole=0)||
+| May 22 > Aug 15 | Submission deadline > Travel support for accepted submissions  |  [AAAI-Sponsored “AIx” Pop-Up Events Worldwide](https://aaai.org/membership/aix-pop-up/) |
 | May 24 | Travel grant | [Canadian](https://cfdcanada.ca/awards/travel-grants/) | |
 | Jun |  Travel support for accepted submissions  | [Japan: Heart research](https://bcvr-ishr2026.mq-con.jp/travel_grant/) | 2026 ✅️ |
 | Jun 1 | Submission deadline > Travel support deadline | [Int Studies Association ](https://www.isanet.org/programs/grants/workshop-grants) | 
 | July 20 | NeurIPS | [Affinity workshop travel](https://www.facebook.com/WiMLWorkshop/posts/-applications-open-neurips-2026-affinity-support-pilot-programwould-attending-ne/1558180519687926/) | |
-| August | Travel support for accepted submissions  |  [AAAI-Sponsored “AIx” Pop-Up Events Worldwide](https://aaai.org/membership/aix-pop-up/) |
+| Aug | Travel support | [BMVC](https://bmvc2026.bmva.org/attending/registration-accessibility-grants/) |
 | Aug 25 / Sep 15 | [Canadian Space Health Research Symposium](https://www.canadianspacehealth.ca/symposium/2026) | Only available to both undergraduate and graduate students, affiliated with a Canadian institution |
 | Aug 17 | $12,000 USD stipend over 8 weeks | [AI Alignment Foundation Research Fellowship](https://www.aialignmentfoundation.org/fellowship) | |
 | Aug 18 | Various | [HEADS-UP](https://professional.heart.org/en/meetings/international-stroke-conference/awards-and-lectures/isc-abstract-awards/heads-up-travel-awards-for-early-stage-investigators) | |
